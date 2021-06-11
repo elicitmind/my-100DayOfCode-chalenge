@@ -12,11 +12,28 @@ ALL EXCITED! I go to work in restaurant soon, no time for thought! JUST ACT
 
 **Today's Progress** 
 -blog website's developing, added few routes and post request from the /compose subpage
+-a lot of work on the MY JOURNEY website, 
+-posts from /compose are printed on homepage! 
+-get to read the route parameters documentation through
+-started to play with dynamic route parameters! 
+-helped a friend out with tech prob!
+-req and res make more sense
+-new array method - array.forEach((e)=> { xD })
+-dedicate!
+-shared a lot on twitter! even got followed by
+-few commits on git
 
+4h~ of pure codings today
 
-**Thoughts**  
+**Thoughts** 
+I did my best! Did the intervals and exercises to cool off! went for a run, it helps with though processes. When i felt i am about to fry i did chill it using awareness! I am all PUMPED UP! 
+
+thinking about sharing more positive energy and feedback to others on twitter just to see whats gonna happen
+
+CODING FOR THE WIN
 
 **Extra**
+BOUGHT AN ELEGANT POLO T SHIRT ESPECIALLY TO CODE!
 
 //////////////////
 
