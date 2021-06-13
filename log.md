@@ -54,6 +54,22 @@ BOUGHT AN ELEGANT POLO T SHIRT ESPECIALLY TO CODE!
 **Extra**
 good sleep after yesterdays coding!!
 
+###                      ###
+### Day 0: June 10, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-each post creates a new webpage with its content with its on /route
+-found two ways of truncating longer string *1 css *2 jS. Tried both
+-added hotlinks after shortened text on main page to full version of TOPIC on another /ROUTE !!
+-ITS DYNAMIC! 
+
+**Thoughts**  
+doing creates energy and melts procrastination!!!!! 
+
+**Extra**
+need a nap before work!! today was smooth and delevoping!! LOVE YOU ALL LOVE WORLD LOVE FRIENDS
+
 
 //////////////////
 //////////////////
