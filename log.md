@@ -55,7 +55,7 @@ BOUGHT AN ELEGANT POLO T SHIRT ESPECIALLY TO CODE!
 good sleep after yesterdays coding!!
 
 ###                      ###
-### Day 0: June 10, 2021 ### 
+### Day 3: June 13, 2021 ### 
 ###                      ###
 
 **Today's Progress** 
@@ -70,6 +70,23 @@ doing creates energy and melts procrastination!!!!!
 **Extra**
 need a nap before work!! today was smooth and delevoping!! LOVE YOU ALL LOVE WORLD LOVE FRIENDS
 
+###                      ###
+### Day 4: June 14, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-COMPLETED 23 MODULE WITH ANGELA YU
+-fix footer padding and position that its nice in the bottom of the body
+-learned about formatting text posted in textarea with white-space: pre-wrap;
+-PRE-STARTED databases! 
+-tweets n stuff! git on!
+
+**Thoughts**  
+Looking forward to do a lot tomorrow - my day off. Last two days was busy in the restaurant so i kept it steady with coding! still i feel really proud of myself, i do advance, i do progress, i do succeed!
+
+I know it is the right thing to do, and that i enjoy the whole process of learning where the goal is to build up income from it! That's it. i've got the fuel, i've got the machine! Bzuuum!!
+
+**Extra**
 
 //////////////////
 //////////////////
