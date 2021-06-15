@@ -88,6 +88,28 @@ I know it is the right thing to do, and that i enjoy the whole process of learni
 
 **Extra**
 
+###                      ###
+### Day 5: June 15, 2021 ###  DAY OFF FROM WORK !! 
+###                      ###
+
+**Today's Progress** 
+-introduction to DATABASEs, got the difference between sql and noSQL datatype!!
+-CRUD in SQL - CREATE, READ, UPDATE, DESTROY
+-ran mongoDB in hyper.js terminal. Some basic object creation and edit. 
+-created Atlas cluster to set up my mongoDB
+-understood relation between tables
+
+**Thoughts**  
+IM ON UP AND AWARE !! BOOM, STARTED THE DAY WITH NO CAFFEINE AND IT FEELS GOOD AFTER BREAKFAST KICKED IN!
+
+databases do not come easy! I prefer jS, node, express, other stuff i learned before.
+Im happy i could learn about it though. It's improving my knowledge, i see bigger picture now!
+
+
+**Extra**
+BOUGHT ANTI BLUE LIGHT GLASSES AND I FEEL LIKE THE SENIOR FULL STACK ALPHA v55!
+
+
 //////////////////
 //////////////////
 
