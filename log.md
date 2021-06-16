@@ -110,6 +110,23 @@ Im happy i could learn about it though. It's improving my knowledge, i see bigge
 BOUGHT ANTI BLUE LIGHT GLASSES AND I FEEL LIKE THE SENIOR FULL STACK ALPHA v55!
 
 
+###                      ###
+### Day 6: June 16, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-installed and ran mongoDB with app.js
+-got the documentation about mongoDB and atlas clusters
+-worked!
+-created and added collection to my cluster!!
+
+**Thoughts**  
+i do not really resonate with database! that's why it's so good to do it !
+BOOOM! Got to get a nap before work!
+
+**Extra**
+
+
 //////////////////
 //////////////////
 
