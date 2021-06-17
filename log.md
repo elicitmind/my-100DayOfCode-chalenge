@@ -126,9 +126,26 @@ BOOOM! Got to get a nap before work!
 
 **Extra**
 
+###                      ###
+### Day 7: June 17, 2021 ### 
+###                      ###
 
-//////////////////
-//////////////////
+**Today's Progress** 
+-mongoose implemented!!
+-adding collections and items
+-shell operations in mongo:mongod
+-methods: model() .save() .Schema() new Collection() .insertMany()
+
+**Thoughts**
+Mongoose much it much more appealing ! I had some fun today!! Want to do some more!!
+
+**Extra**
+Gonna get some brain enhancing supplements
+
+
+//////////////////////////////
+//////////////////////////////
+///////////////////////////////
 
 ###                      ###
 ### Day 0: June 10, 2021 ### 
@@ -136,7 +153,6 @@ BOOOM! Got to get a nap before work!
 
 **Today's Progress** 
 
-
-**Thoughts**  
+**Thoughts**
 
 **Extra**
