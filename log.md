@@ -142,6 +142,22 @@ Mongoose much it much more appealing ! I had some fun today!! Want to do some mo
 **Extra**
 Gonna get some brain enhancing supplements
 
+###                      ###
+### Day 8: June 18, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-MODEL.METHODS() IN MONGOOSE MAKE DATABASE MORE CLEAR AND APPROACHABLE!
+-.insertMany()
+-.find()
+-DOCUMENTATION!
+-added few validations to new collection items Schema
+-required fields within created data!
+-mongoose.connection.close()!
+
+**Thoughts**
+Mongoose clears the water of DataBase sea!
+**Extra**
 
 //////////////////////////////
 //////////////////////////////
