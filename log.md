@@ -157,7 +157,25 @@ Gonna get some brain enhancing supplements
 
 **Thoughts**
 Mongoose clears the water of DataBase sea!
+CARRY ON!! ONWARDS!
 **Extra**
+
+###                      ###
+### Day 9: June 19, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-Model.updateOne()
+-Model.deleteMany()
+-syntax for multiple functions
+-embedded docs
+-mongoose project toAchieve list !!
+
+**Thoughts**
+WHwhaowahoh my mind after 5h is cooked!
+
+**Extra**
+TATTOOO TO INCREASE MY POWER
 
 //////////////////////////////
 //////////////////////////////
