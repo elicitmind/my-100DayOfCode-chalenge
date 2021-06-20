@@ -177,6 +177,21 @@ WHwhaowahoh my mind after 5h is cooked!
 **Extra**
 TATTOOO TO INCREASE MY POWER
 
+###                       ###
+### Day 10: June 20, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-fixed yesterdays bug using setTimeout function that delayed redirecting to "/" route! 
+-dynamicly adding and deleting new documents to my webpage and database!! mongoooooose!!
+-new javaScriplet to submit a form when checkbox is checked!!
+
+**Thoughts**
+Woah, that sleep with your problem really works! Amazing how good it feels when you solve your problem! Yaaaa
+
+**Extra**
+NOW WE SHALL BEGIN!!!!!!!!
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
