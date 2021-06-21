@@ -201,11 +201,18 @@ NOW WE SHALL BEGIN!!!!!!!!
 -i spent time on system cleanUP, malware scans, chrome cleanups, bookmarks, tabs and the other important parts of my workspace environment that affect programming.
 -found some issuess and fixed it so my coding WILL BE AT ITS FULLEST!!
 
+fixed all!! there was a single line of code that was bugging my code!
+-read about promises!
+-learned about new input type="hidden" to send an extra value when posting
+-$pull mongoDB to search through array in db obcject
+-moved my DB to the cloud based atlas cluster to free up localHost and prepare to deploy my app live!!
+
+
 **Thoughts**
 -NEVER EVER TURN OFF WINDOWS FIREWALL!!
 
 **Extra**
-
+actually did 3 sessions of learning as i took extra day off today!! FELT SPLENDID!!
 
 //////////////////////////////
 //////////////////////////////
