@@ -192,6 +192,21 @@ Woah, that sleep with your problem really works! Amazing how good it feels when 
 **Extra**
 NOW WE SHALL BEGIN!!!!!!!!
 
+###                       ###
+### Day 11: June 11, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-Day11! was special **************************
+-i spent time on system cleanUP, malware scans, chrome cleanups, bookmarks, tabs and the other important parts of my workspace environment that affect programming.
+-found some issuess and fixed it so my coding WILL BE AT ITS FULLEST!!
+
+**Thoughts**
+-NEVER EVER TURN OFF WINDOWS FIREWALL!!
+
+**Extra**
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
