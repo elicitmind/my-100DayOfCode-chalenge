@@ -193,7 +193,7 @@ Woah, that sleep with your problem really works! Amazing how good it feels when 
 NOW WE SHALL BEGIN!!!!!!!!
 
 ###                       ###
-### Day 11: June 11, 2021 ### 
+### Day 11: June 21, 2021 ### 
 ###                       ###
 
 **Today's Progress** 
@@ -213,6 +213,23 @@ fixed all!! there was a single line of code that was bugging my code!
 
 **Extra**
 actually did 3 sessions of learning as i took extra day off today!! FELT SPLENDID!!
+
+###                       ###
+### Day 12: June 22, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-lot of node.js experience
+-lot of git experience
+-lot of heroku and mongoose experience!
+-started implementing atlas to another project, work locally but not on heroku, yet
+-new package dotenv for keeping sensitive data safe
+
+**Thoughts**
+DEEP WORK'S ON! I CAN SO MUCH MORE!!!!!
+IM SO PROUD OF MYSELF!!
+
+**Extra**
 
 //////////////////////////////
 //////////////////////////////
