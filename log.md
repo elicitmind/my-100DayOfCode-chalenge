@@ -231,6 +231,21 @@ IM SO PROUD OF MYSELF!!
 
 **Extra**
 
+###                       ###
+### Day 13: June 23, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-FIXED HEROKU ERR!! Prouddd..! Deployed and live! 
+-uploaded my previous projects on Git! 
+-inspirational stories of other programmers
+-look up on tweeter for community
+
+**Thoughts**
+I have to be careful with my body, overdoing my workout yesterday made my mood a bit jumpy so i decided to rest and relax through this day. Relax! Watching youtube!
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
