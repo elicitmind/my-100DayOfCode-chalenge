@@ -246,6 +246,23 @@ I have to be careful with my body, overdoing my workout yesterday made my mood a
 
 **Extra**
 
+###                       ###
+### Day 14: June 24, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-today i started new project that is going to explain me more about RESTFUL APIs
+-project setUp
+-server code
+-mongoDB set up using new tool Robo3T
+-git on
+-npm packages installed
+
+**Thoughts**
+Right on! Excited and fresh!
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
