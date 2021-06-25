@@ -272,7 +272,7 @@ Right on! Excited and fresh!
 -playing with my api in postman and through url http address!!
 **Thoughts**
 NEW EXPERIENCE, WIDEN MY VIEW!
-I have created a server with mongoDB in it, it is being run locally, to play with it, and see how does it actually works without front-end! I can send requests to this server, get requests using my bare browser -I have implemented a get response on a specified route, so just by maneuvering http's address parameters I am able to view specified documents! Also I can send post requests using PostmanApp and update it with PUT request!
+I have created a server with mongoDB in it, it is being run locally, to play with it, and see how does it actually works without front-end! I can send requests to this server, GET requests using my bare browser -I have implemented a get response on a specified route, so just by maneuvering http's address parameters I am able to view specified documents! Also I can send POST requests using PostmanApp and update it with PUT request!
 **Extra**
 Bought a second monitor for my station!! Amazing!!
 
