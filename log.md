@@ -276,6 +276,37 @@ I have created a server with mongoDB in it, it is being run locally, to play wit
 **Extra**
 Bought a second monitor for my station!! Amazing!!
 
+###                       ###
+### Day 16: June 26, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-New module 'Authentication and Security'
+-project set and running locally
+-get routes for home, login and register page
+
+
+**Thoughts**
+Now, as i know how does the database works behind the scenes, the user's db makes a lot of sense to me. In order to access content thats designed for registered users only you need some kind of authentication for it!
+**Extra**
+
+###                       ###
+### Day 17: June 27, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-userDB created
+-post request on /register to create new user
+-post request on /login to verify if given username exists in db and validate the password, if so - RENDER THE SECRET PAGE
+-got a nice time solving my syntax bug
+-my site got some nice looks!
+
+**Thoughts**
+I do really like the way it works, I enjoy it !! I gather more positive feedback and my community is expanding continuously!
+Give it a trust and dedicate your energy! LIVING LIFE!
+**Extra**
+My mouse tweaked today! Something got happened to it while spilling tea. Is it all it has to happen to break a brand new asus pointer???
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
