@@ -300,12 +300,34 @@ Now, as i know how does the database works behind the scenes, the user's db make
 -post request on /login to verify if given username exists in db and validate the password, if so - RENDER THE SECRET PAGE
 -got a nice time solving my syntax bug
 -my site got some nice looks!
+*-*new packages:
+-dotenv
+-mongoose-encryption
 
 **Thoughts**
 I do really like the way it works, I enjoy it !! I gather more positive feedback and my community is expanding continuously!
 Give it a trust and dedicate your energy! LIVING LIFE!
 **Extra**
 My mouse tweaked today! Something got happened to it while spilling tea. Is it all it has to happen to break a brand new asus pointer???
+
+###                       ###
+### Day 18: June 28, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-level 3 and 4 of security and authentication!
+*-*new packages:
+-md5
+-bCrypt
+-how does the cracking the code works explained
+-im more aware of the security, it's exciting!!
+-salting and hashing the password explained
+-bcrypt syntax
+
+**Thoughts**
+I find it very helpful to be aware of how does that area of DEV works
+
+**Extra**
 
 //////////////////////////////
 //////////////////////////////
