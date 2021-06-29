@@ -329,6 +329,26 @@ I find it very helpful to be aware of how does that area of DEV works
 
 **Extra**
 
+###                       ###
+### Day 19: June 29, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+passport configuration!
+-complicated!!
+*-*require new packages
+-passport
+-passport-local
+-express-session
+-passport-local-mongoose
+-added plugin to schema
+-passport to create local login strategy and serialize/deserialize our user
+
+**Thoughts**
+Hard!! Didn't solve it! Have to come back tomorrow! Exciting!
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
