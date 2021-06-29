@@ -343,11 +343,19 @@ passport configuration!
 -passport-local-mongoose
 -added plugin to schema
 -passport to create local login strategy and serialize/deserialize our user
+*------------------------------------------------------------*
+2nd sess:
+-fixed the bug, it was secure: true; value that was preventing me to authenticate! fixed with false value, documentation helps!
+-app.get login and logout route
+-app.post for login! authentication works!
 
 **Thoughts**
-Hard!! Didn't solve it! Have to come back tomorrow! Exciting!
+Hard!! Didn't solve it! Have to come back tomorrow! Exciting! 
+*---------------------------------------------------------*
+CAME BACK IN THE EVENING AND SOLVED IT!! WOOOHP!
 
 **Extra**
+nothing is real! EVERYTHING IS PERMITTED!
 
 //////////////////////////////
 //////////////////////////////
