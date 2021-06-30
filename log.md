@@ -357,6 +357,20 @@ CAME BACK IN THE EVENING AND SOLVED IT!! WOOOHP!
 **Extra**
 nothing is real! EVERYTHING IS PERMITTED!
 
+###                       ###
+### Day 20: June 20, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-i am trying to implement an google Oauth to my website using passport-google-oauth20
+-created my first app credentials with google
+-using another mongoose plugin to help me with to find or create authenticated users
+
+**Thoughts**
+it is already 20 days of disciplined work on my coding skills. My learning abilities increased drastically!
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
