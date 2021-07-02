@@ -385,6 +385,23 @@ Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom!
 
 **Extra**
 
+###                       ###
+### Day 22: June 22, 2021 ### 
+###                       ###
+
+**Today's Progress**
+-REACT STARTED!
+-basic syntax
+-ReactJs app create
+-import from method
+-ReactDOM.render() 
+-JSX explained, HTML-like code that can coexist with jS and CSS
+-few ReactJs exercises! 
+
+**Thoughts**
+I AM AMAZED!! React is so much more than i thought it would be, really. So far it has all the best pieces of what i have learned! HTML, CSS AND MY DEAR JS! It is all here for me!!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
