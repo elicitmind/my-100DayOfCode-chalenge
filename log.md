@@ -371,6 +371,20 @@ it is already 20 days of disciplined work on my coding skills. My learning abili
 
 **Extra**
 
+###                      ###
+### Day 21: July 1, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-implemented google login strategy for Oauth! Working !
+-it keeps the session active until browser close or logout in cookie
+-added facebook login strategy by myself as well!
+
+**Thoughts**
+Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom! 
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
