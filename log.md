@@ -369,8 +369,6 @@ nothing is real! EVERYTHING IS PERMITTED!
 **Thoughts**
 it is already 20 days of disciplined work on my coding skills. My learning abilities increased drastically!
 
-**Extra**
-
 ###                      ###
 ### Day 21: July 1, 2021 ### 
 ###                      ###
@@ -382,8 +380,6 @@ it is already 20 days of disciplined work on my coding skills. My learning abili
 
 **Thoughts**
 Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom! 
-
-**Extra**
 
 ###                       ###
 ### Day 22: June 22, 2021 ### 
@@ -400,7 +396,18 @@ Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom!
 
 **Thoughts**
 I AM AMAZED!! React is so much more than i thought it would be, really. So far it has all the best pieces of what i have learned! HTML, CSS AND MY DEAR JS! It is all here for me!!
-**Extra**
+
+###                       ###
+### Day 23: June 23, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-ReactJs components
+-component modules import and export
+-HTML-like syntax for components
+
+**Thoughts**
+Incredible! How great designed are the ReactJs components! There is some real smoothness in it! Breaking down the code like that makes the design so clear!
 
 //////////////////////////////
 //////////////////////////////
