@@ -409,6 +409,22 @@ I AM AMAZED!! React is so much more than i thought it would be, really. So far i
 **Thoughts**
 Incredible! How great designed are the ReactJs components! There is some real smoothness in it! Breaking down the code like that makes the design so clear!
 
+###                       ###
+### Day 24: June 24, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-ReactJs work environment set up!
+-props
+-more about exporting importing components
+-create-react-app
+-new small webSites
+-Keeper App Project Started!
+
+**Thoughts**
+Amazing how it does the job done! Components and props being sent over between separated files makes the construction of the page awesome. 
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
