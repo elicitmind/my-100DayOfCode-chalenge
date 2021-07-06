@@ -382,7 +382,7 @@ it is already 20 days of disciplined work on my coding skills. My learning abili
 Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom! 
 
 ###                       ###
-### Day 22: June 22, 2021 ### 
+### Day 22: July 2, 2021  ### 
 ###                       ###
 
 **Today's Progress**
@@ -397,9 +397,9 @@ Awesome, got my 1st job offer inquiry from Gijs, boosted! B b b boom!
 **Thoughts**
 I AM AMAZED!! React is so much more than i thought it would be, really. So far it has all the best pieces of what i have learned! HTML, CSS AND MY DEAR JS! It is all here for me!!
 
-###                       ###
-### Day 23: June 23, 2021 ### 
-###                       ###
+###                      ###
+### Day 23: July 3, 2021 ### 
+###                      ###
 
 **Today's Progress** 
 -ReactJs components
@@ -409,9 +409,9 @@ I AM AMAZED!! React is so much more than i thought it would be, really. So far i
 **Thoughts**
 Incredible! How great designed are the ReactJs components! There is some real smoothness in it! Breaking down the code like that makes the design so clear!
 
-###                       ###
-### Day 24: June 24, 2021 ### 
-###                       ###
+###                      ###
+### Day 24: July 4, 2021 ### 
+###                      ###
 
 **Today's Progress** 
 -ReactJs work environment set up!
@@ -425,13 +425,27 @@ Incredible! How great designed are the ReactJs components! There is some real sm
 Amazing how it does the job done! Components and props being sent over between separated files makes the construction of the page awesome. 
 **Extra**
 
+###                      ###
+### Day 25: July 5, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-understanding props in ReactJS
+-map() method to send props and create multiple components in React!
+-playing around with new method: array.map() !
+-ReactJs even has its own DEVTOOLS! 
+
+**Thoughts**
+another day of excitement! REACTJS!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
 
-###                      ###
-### Day 0: June 10, 2021 ### 
-###                      ###
+###                     ###
+### Day 0: July 6, 2021 ### 
+###                     ###
 
 **Today's Progress** 
 
