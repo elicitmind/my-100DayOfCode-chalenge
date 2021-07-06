@@ -439,6 +439,19 @@ Amazing how it does the job done! Components and props being sent over between s
 another day of excitement! REACTJS!
 **Extra**
 
+###                      ###
+### Day 26: July 6, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-reduce()
+-filter()
+-practice these methods with console.log!
+
+**Thoughts**
+Have to get these methods through! These are the fundamentals of deep logic functionality!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
