@@ -452,6 +452,20 @@ another day of excitement! REACTJS!
 Have to get these methods through! These are the fundamentals of deep logic functionality!
 **Extra**
 
+###                      ###
+### Day 27: July 7, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-implemented notes rendering with map() method using data imported from object stored in separated js file
+-simple clean code and the results are astonishing!
+-arrow functions revised
+-reduce and find methods trained
+
+**Thoughts**
+i came back to my Google Note Keeper app project with React! Looks tasty!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
