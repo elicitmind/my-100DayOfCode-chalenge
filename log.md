@@ -466,6 +466,18 @@ Have to get these methods through! These are the fundamentals of deep logic func
 i came back to my Google Note Keeper app project with React! Looks tasty!
 **Extra**
 
+###                      ###
+### Day 28: July 8, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-TERNARY AND && OPERATOR IN REACT
+-props and components creation practice on simple login page that renders different elements depended on if user is already logged in etc
+-if condition on the left from && is true -the right side executes -REACT LOGIC
+**Thoughts**
+LOVING THE SIMPLICITY OF SYNTAX
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
