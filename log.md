@@ -478,6 +478,20 @@ i came back to my Google Note Keeper app project with React! Looks tasty!
 LOVING THE SIMPLICITY OF SYNTAX
 **Extra**
 
+###                      ###
+### Day 29: July 9, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-grateful day
+-summary
+-what have i learned
+
+**Thoughts**
+-i am happy i am capable to such a great things and progresss
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
