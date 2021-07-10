@@ -492,6 +492,20 @@ LOVING THE SIMPLICITY OF SYNTAX
 
 **Extra**
 
+###                       ###
+### Day 30: July 10, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-declarative programming practice with variable set to boolean
+-dynamically renders according to user logged in/ registered state
+-deconstructive arrays es6
+-little bit of hooks, setState method!
+
+**Thoughts**
+BUSY DAY!! Got my tattoo to accompany me in the journey of life where i am here to prove myself as a god!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
