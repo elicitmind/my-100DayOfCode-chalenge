@@ -522,6 +522,19 @@ Need to quiet down everything around, todays travel to brugge and yesterdays tat
 **Extra**
 ALSO GOT MY FOREARM TATTOOED SO I REMEMBER THE ULTIMATE GOAL - TO ACHIEVE THROUGH SELF DEVELOPEMENT !!
 
+###                       ###
+### Day 32: July 12, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+ReactJs Hooks practice with useState 
+-various dynamic page rendering onClick attribute
+-setInterval implementation for App functions set live page updates (eg. clock time every second)
+
+**Thoughts**
+focus on theory and react docs, I want to master it!
+
+**Extra**
 
 
 
