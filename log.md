@@ -506,6 +506,25 @@ LOVING THE SIMPLICITY OF SYNTAX
 BUSY DAY!! Got my tattoo to accompany me in the journey of life where i am here to prove myself as a god!
 **Extra**
 
+###                       ###
+### Day 31: July 11, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-NEW CONCEPTS!
+-Declarative and Imperative programming explained!
+-Introduction to ReactJs Hooks!
+-ES6 Destructuring Arrays into separate variables!
+
+**Thoughts**
+Need to quiet down everything around, todays travel to brugge and yesterdays tattoo took too much time off programming also day after!
+
+**Extra**
+ALSO GOT MY FOREARM TATTOOED SO I REMEMBER THE ULTIMATE GOAL - TO ACHIEVE THROUGH SELF DEVELOPEMENT !!
+
+
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
