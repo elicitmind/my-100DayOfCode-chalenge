@@ -536,6 +536,19 @@ focus on theory and react docs, I want to master it!
 
 **Extra**
 
+###                       ###
+### Day 33: July 13, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-destructuring arrays and objects! full doc! theory and practice
+
+**Thoughts**
+Very useful theory topic! Incredible way to access, rename, redeclare property values of arr/objects!
+
+**Extra**
+Buzzing for more knowledge! Yessss
+
 
 
 //////////////////////////////
