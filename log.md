@@ -542,6 +542,8 @@ focus on theory and react docs, I want to master it!
 
 **Today's Progress** 
 -destructuring arrays and objects! full doc! theory and practice
+-summary project with ternary, inline styling, useState hooks to render styles and heading text dynamically!
+-practice and documentations!S
 
 **Thoughts**
 Very useful theory topic! Incredible way to access, rename, redeclare property values of arr/objects!
