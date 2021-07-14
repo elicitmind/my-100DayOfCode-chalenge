@@ -551,6 +551,17 @@ Very useful theory topic! Incredible way to access, rename, redeclare property v
 **Extra**
 Buzzing for more knowledge! Yessss
 
+###                       ###
+### Day 34: July 14, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-React Class components explained, the way of handling React state before Hooks, the functional components, were introduced!
+-to change complex state, did some practice on simple page with name inputs
+
+**Thoughts**
+-I WILL!!
+**Extra**
 
 
 //////////////////////////////
