@@ -563,6 +563,22 @@ Buzzing for more knowledge! Yessss
 -I WILL!!
 **Extra**
 
+###                       ###
+### Day 35: July 15, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+today I test myself. 
+
+-rewriting all the Reacts features from scratch, make them work in one project
+-console.logging each step to get the logic behind it
+-no docs and no google today for this exercise! 
+**Thoughts**
+its difficult => that stimulates me TO GROW!
+**Extra**
+
+its difficult => that stimulates me TO GROW!
+
 
 //////////////////////////////
 //////////////////////////////
