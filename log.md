@@ -579,6 +579,20 @@ its difficult => that stimulates me TO GROW!
 
 its difficult => that stimulates me TO GROW!
 
+###                       ###
+### Day 36: July 16, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-Ive achieved the same results using Reacts state control to dynamically modify my App that I did using mongoDb to store the input data, Express to handle post/get requests and to rerender the page. 
+
+**Thoughts**
+It is so clean on the code side using React!
+
+**Extra**
+
+
+
 
 //////////////////////////////
 //////////////////////////////
