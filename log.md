@@ -591,6 +591,18 @@ It is so clean on the code side using React!
 
 **Extra**
 
+###                       ###
+### Day 37: July 17, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-working with some event handling, using useState hooks, within components created dynamically by user!
+-the callback of my event handling function can access the previous values and return the results based on it! 
+-using ! operator to reverse boolean value creates TOGGLE when handling events!
+
+**Thoughts**
+I BEGIN TO SEE MORE! KEEP GOING!!
+**Extra**
 
 
 
