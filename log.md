@@ -604,6 +604,31 @@ It is so clean on the code side using React!
 I BEGIN TO SEE MORE! KEEP GOING!!
 **Extra**
 
+###                      ###
+### Day 38: July 18, 2021 ### 
+###                      ###
+
+**Today's Progress** 
+-passing the function using component props from App to child elements where it triggers and send back the specified value back to parent!
+-syntax that prevents function from triggering on render
+-added functionality to my app
+
+**Thoughts**
+I can more!
+**Extra**
+
+###                       ###
+### Day 39: July 19, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-keeper app project continued
+-css
+-added functions for handling state and keep the objects with posts in array
+
+**Thoughts**
+ill have a break today!
+**Extra**
 
 
 //////////////////////////////
