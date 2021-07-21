@@ -631,15 +631,29 @@ ill have a break today!
 **Extra**
 
 
-###                     ###
-### Day 0: July 6, 2021 ### 
-###                     ###
+###                       ###
+### Day 40: July 20, 2021 ### 
+###                       ###
 
 **Today's Progress** 
 -sending the changed state from children input components to App.jsx to store it in the array which renders it using map method!
 -handling delete function by sending the notes unique ID to App.jsx where I filter it out from allNotes array!
 **Thoughts**
 taking off work on my day off helped me to start fresh today and achieve a great results backed up with awesome mood!
+**Extra**
+
+###                       ###
+### Day 41: July 21, 2021 ### 
+###                       ###
+
+**Today's Progress** 
+-finished ANGELAS course!
+-material UI - react components!
+-finished keeeper app with styling
+-conditional rendering op!
+-started new React coursse! Maxymilian!!
+**Thoughts**
+
 **Extra**
 
 
