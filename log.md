@@ -735,6 +735,35 @@ taking off work on my day off helped me to start fresh today and achieve a great
 
 **Extra**
 
+###
+
+### Day 42: July 22, 2021
+
+###
+
+**Today's Progress**
+-completed 'The Complete 2021 Web Dev Bootcamp by Dr Angela Yu'
+-i decided to focus on ReactJs now. Goal is to get an IT job soon!
+-My journey continues with 'React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller' !
+-i did JS recap! crucial to get to understand it precisely in order to become a ReactJs developer.
+- spread | rest | destructuring | array methods
+**Thoughts**
+I know that mastering fundamentals is the source of a later achievements and true improving your skills!
+**Extra**
+
+###
+
+### Day 43: July 23, 2021
+
+###
+
+**Today's Progress**
+-today i work on my time management to get more space available for coding, my regular job is not an excuse
+-created a new  React project set up, will be creating app that keeps track of my expenses!
+**Thoughts**
+the more i learn the motivation and capabilities raises!
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
