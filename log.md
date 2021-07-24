@@ -764,6 +764,24 @@ I know that mastering fundamentals is the source of a later achievements and tru
 the more i learn the motivation and capabilities raises!
 **Extra**
 
+###
+
+### Day 44: July 24, 2021
+
+###
+
+**Today's Progress**
+-i highly value the aesthetic standards of other parts of my life, so I decide to take care of the organization and aesthetics of my coding style too!
+
+*format
+*file organization(components, CSS)
+*lean code
+
+therefore i focus on it during next project!
+**Thoughts**
+
+**Extra**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
