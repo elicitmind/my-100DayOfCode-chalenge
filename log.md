@@ -782,6 +782,25 @@ therefore i focus on it during next project!
 
 **Extra**
 
+###
+
+### Day 45: July 25, 2021
+
+###
+
+**Today's Progress**
+deeper into React!
+-props.children
+-wrapper components
+-composition
+-organizing my project!!
+-how does the react works with JSX undwer the hood!
+
+**Thoughts**
+THE AESTHETICS OF REACT CODE/FILE TREE  NOURISH MY  ARTISTIC SOUL
+**Extra**
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
