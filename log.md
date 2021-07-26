@@ -800,6 +800,22 @@ deeper into React!
 THE AESTHETICS OF REACT CODE/FILE TREE  NOURISH MY  ARTISTIC SOUL
 **Extra**
 
+###
+
+### Day 0: July 6, 2021
+
+###
+
+**Today's Progress**
+create/manage forms
+-state control
+-'two-way-binding' between the elements value and the state React concept!
+i practiced communication between parents and children in React. amazing way to pass the data/functions up and down between components utilizing PROPS to receive functions!
+-'lifting the state up' concept understood and worked with
+**Thoughts**
+
+**Extra**
+
 
 //////////////////////////////
 //////////////////////////////
