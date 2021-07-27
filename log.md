@@ -802,7 +802,7 @@ THE AESTHETICS OF REACT CODE/FILE TREE  NOURISH MY  ARTISTIC SOUL
 
 ###
 
-### Day 0: July 6, 2021
+### Day 46: July 26, 2021
 
 ###
 
@@ -812,6 +812,21 @@ create/manage forms
 -'two-way-binding' between the elements value and the state React concept!
 i practiced communication between parents and children in React. amazing way to pass the data/functions up and down between components utilizing PROPS to receive functions!
 -'lifting the state up' concept understood and worked with
+**Thoughts**
+
+**Extra**
+
+###
+
+### Day 47: July 27, 2021
+
+###
+
+**Today's Progress**
+-React controlled components! the value is send to parent and then is received back by the child
+-React stateless/presentational/dummy and stateful/smart components
+-maping list of objects in my Expenses App
+
 **Thoughts**
 
 **Extra**
