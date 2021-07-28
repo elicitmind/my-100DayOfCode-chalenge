@@ -831,6 +831,20 @@ i practiced communication between parents and children in React. amazing way to 
 
 **Extra**
 
+###
+
+### Day 48: July 28, 2021
+
+###
+
+**Today's Progress**
+-2hr hiring code test! I solved 1 out of 3  jS problems. The experience of that was priceless! I know what to expect now and every next job interview i smash!
+
+-Managed to solve 2nd task using recursion now, took me 5 hours 🔥
+**Thoughts**
+CONFIDENCE IS INFINITE!
+**Extra**
+
 
 //////////////////////////////
 //////////////////////////////
