@@ -845,6 +845,21 @@ i practiced communication between parents and children in React. amazing way to 
 CONFIDENCE IS INFINITE!
 **Extra**
 
+###
+
+### Day 49: July 29, 2021
+
+###
+
+**Today's Progress**
+-today  i work on that 3rd WEB API task using express from my job hiring test! 
+
+-I have the idea in mind and i go along with it step by step, carefully reading the docs one more time to get deeper understanding of how it works under the hood!
+
+**Thoughts**
+
+**Extra**
+
 
 //////////////////////////////
 //////////////////////////////
