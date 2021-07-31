@@ -40,7 +40,6 @@ thinking about sharing more positive energy and feedback to others on twitter ju
 
 CODING FOR THE WIN
 
-**Extra**
 BOUGHT AN ELEGANT POLO T SHIRT ESPECIALLY TO CODE!
 
 ###
@@ -57,7 +56,6 @@ BOUGHT AN ELEGANT POLO T SHIRT ESPECIALLY TO CODE!
 **Thoughts**  
 1h today, work! feeling good ! starving for more, see ya tomorrow. Gonna share some twits!
 
-**Extra**
 good sleep after yesterdays coding!!
 
 ###
@@ -75,7 +73,6 @@ good sleep after yesterdays coding!!
 **Thoughts**  
 doing creates energy and melts procrastination!!!!!
 
-**Extra**
 need a nap before work!! today was smooth and delevoping!! LOVE YOU ALL LOVE WORLD LOVE FRIENDS
 
 ###
@@ -96,7 +93,6 @@ Looking forward to do a lot tomorrow - my day off. Last two days was busy in the
 
 I know it is the right thing to do, and that i enjoy the whole process of learning where the goal is to build up income from it! That's it. i've got the fuel, i've got the machine! Bzuuum!!
 
-**Extra**
 
 ###
 
@@ -117,7 +113,6 @@ IM ON UP AND AWARE !! BOOM, STARTED THE DAY WITH NO CAFFEINE AND IT FEELS GOOD A
 databases do not come easy! I prefer jS, node, express, other stuff i learned before.
 Im happy i could learn about it though. It's improving my knowledge, i see bigger picture now!
 
-**Extra**
 BOUGHT ANTI BLUE LIGHT GLASSES AND I FEEL LIKE THE SENIOR FULL STACK ALPHA v55!
 
 ###
@@ -136,7 +131,6 @@ BOUGHT ANTI BLUE LIGHT GLASSES AND I FEEL LIKE THE SENIOR FULL STACK ALPHA v55!
 i do not really resonate with database! that's why it's so good to do it !
 BOOOM! Got to get a nap before work!
 
-**Extra**
 
 ###
 
@@ -153,7 +147,6 @@ BOOOM! Got to get a nap before work!
 **Thoughts**
 Mongoose much it much more appealing ! I had some fun today!! Want to do some more!!
 
-**Extra**
 Gonna get some brain enhancing supplements
 
 ###
@@ -174,7 +167,6 @@ Gonna get some brain enhancing supplements
 **Thoughts**
 Mongoose clears the water of DataBase sea!
 CARRY ON!! ONWARDS!
-**Extra**
 
 ###
 
@@ -192,7 +184,6 @@ CARRY ON!! ONWARDS!
 **Thoughts**
 WHwhaowahoh my mind after 5h is cooked!
 
-**Extra**
 TATTOOO TO INCREASE MY POWER
 
 ###
@@ -209,7 +200,6 @@ TATTOOO TO INCREASE MY POWER
 **Thoughts**
 Woah, that sleep with your problem really works! Amazing how good it feels when you solve your problem! Yaaaa
 
-**Extra**
 NOW WE SHALL BEGIN!!!!!!!!
 
 ###
@@ -219,7 +209,7 @@ NOW WE SHALL BEGIN!!!!!!!!
 ###
 
 **Today's Progress**
--Day11! was special ************\*\*************
+-Day11! was special ****\*\*\*\*****\*\*****\*\*\*\*****
 -i spent time on system cleanUP, malware scans, chrome cleanups, bookmarks, tabs and the other important parts of my workspace environment that affect programming.
 -found some issuess and fixed it so my coding WILL BE AT ITS FULLEST!!
 
@@ -232,7 +222,6 @@ fixed all!! there was a single line of code that was bugging my code!
 **Thoughts**
 -NEVER EVER TURN OFF WINDOWS FIREWALL!!
 
-**Extra**
 actually did 3 sessions of learning as i took extra day off today!! FELT SPLENDID!!
 
 ###
@@ -252,7 +241,6 @@ actually did 3 sessions of learning as i took extra day off today!! FELT SPLENDI
 DEEP WORK'S ON! I CAN SO MUCH MORE!!!!!
 IM SO PROUD OF MYSELF!!
 
-**Extra**
 
 ###
 
@@ -269,7 +257,6 @@ IM SO PROUD OF MYSELF!!
 **Thoughts**
 I have to be careful with my body, overdoing my workout yesterday made my mood a bit jumpy so i decided to rest and relax through this day. Relax! Watching youtube!
 
-**Extra**
 
 ###
 
@@ -288,7 +275,6 @@ I have to be careful with my body, overdoing my workout yesterday made my mood a
 **Thoughts**
 Right on! Excited and fresh!
 
-**Extra**
 
 ###
 
@@ -302,7 +288,6 @@ Right on! Excited and fresh!
 **Thoughts**
 NEW EXPERIENCE, WIDEN MY VIEW!
 I have created a server with mongoDB in it, it is being run locally, to play with it, and see how does it actually works without front-end! I can send requests to this server, GET requests using my bare browser -I have implemented a get response on a specified route, so just by maneuvering http's address parameters I am able to view specified documents! Also I can send POST requests using PostmanApp and update it with PUT request!
-**Extra**
 Bought a second monitor for my station!! Amazing!!
 
 ###
@@ -318,7 +303,6 @@ Bought a second monitor for my station!! Amazing!!
 
 **Thoughts**
 Now, as i know how does the database works behind the scenes, the user's db makes a lot of sense to me. In order to access content thats designed for registered users only you need some kind of authentication for it!
-**Extra**
 
 ###
 
@@ -339,7 +323,6 @@ Now, as i know how does the database works behind the scenes, the user's db make
 **Thoughts**
 I do really like the way it works, I enjoy it !! I gather more positive feedback and my community is expanding continuously!
 Give it a trust and dedicate your energy! LIVING LIFE!
-**Extra**
 My mouse tweaked today! Something got happened to it while spilling tea. Is it all it has to happen to break a brand new asus pointer???
 
 ###
@@ -361,7 +344,6 @@ My mouse tweaked today! Something got happened to it while spilling tea. Is it a
 **Thoughts**
 I find it very helpful to be aware of how does that area of DEV works
 
-**Extra**
 
 ###
 
@@ -390,7 +372,6 @@ Hard!! Didn't solve it! Have to come back tomorrow! Exciting!
 _---------------------------------------------------------_
 CAME BACK IN THE EVENING AND SOLVED IT!! WOOOHP!
 
-**Extra**
 nothing is real! EVERYTHING IS PERMITTED!
 
 ###
@@ -469,7 +450,6 @@ Incredible! How great designed are the ReactJs components! There is some real sm
 
 **Thoughts**
 Amazing how it does the job done! Components and props being sent over between separated files makes the construction of the page awesome.
-**Extra**
 
 ###
 
@@ -485,7 +465,6 @@ Amazing how it does the job done! Components and props being sent over between s
 
 **Thoughts**
 another day of excitement! REACTJS!
-**Extra**
 
 ###
 
@@ -500,7 +479,6 @@ another day of excitement! REACTJS!
 
 **Thoughts**
 Have to get these methods through! These are the fundamentals of deep logic functionality!
-**Extra**
 
 ###
 
@@ -516,7 +494,6 @@ Have to get these methods through! These are the fundamentals of deep logic func
 
 **Thoughts**
 i came back to my Google Note Keeper app project with React! Looks tasty!
-**Extra**
 
 ###
 
@@ -530,7 +507,6 @@ i came back to my Google Note Keeper app project with React! Looks tasty!
 -if condition on the left from && is true -the right side executes -REACT LOGIC
 **Thoughts**
 LOVING THE SIMPLICITY OF SYNTAX
-**Extra**
 
 ###
 
@@ -546,7 +522,6 @@ LOVING THE SIMPLICITY OF SYNTAX
 **Thoughts**
 -i am happy i am capable to such a great things and progresss
 
-**Extra**
 
 ###
 
@@ -562,7 +537,6 @@ LOVING THE SIMPLICITY OF SYNTAX
 
 **Thoughts**
 BUSY DAY!! Got my tattoo to accompany me in the journey of life where i am here to prove myself as a god!
-**Extra**
 
 ###
 
@@ -579,7 +553,6 @@ BUSY DAY!! Got my tattoo to accompany me in the journey of life where i am here 
 **Thoughts**
 Need to quiet down everything around, todays travel to brugge and yesterdays tattoo took too much time off programming also day after!
 
-**Extra**
 ALSO GOT MY FOREARM TATTOOED SO I REMEMBER THE ULTIMATE GOAL - TO ACHIEVE THROUGH SELF DEVELOPEMENT !!
 
 ###
@@ -596,7 +569,6 @@ ReactJs Hooks practice with useState
 **Thoughts**
 focus on theory and react docs, I want to master it!
 
-**Extra**
 
 ###
 
@@ -612,7 +584,6 @@ focus on theory and react docs, I want to master it!
 **Thoughts**
 Very useful theory topic! Incredible way to access, rename, redeclare property values of arr/objects!
 
-**Extra**
 Buzzing for more knowledge! Yessss
 
 ###
@@ -627,7 +598,6 @@ Buzzing for more knowledge! Yessss
 
 **Thoughts**
 -I WILL!!
-**Extra**
 
 ###
 
@@ -643,7 +613,6 @@ today I test myself.
 -no docs and no google today for this exercise!
 **Thoughts**
 its difficult => that stimulates me TO GROW!
-**Extra**
 
 its difficult => that stimulates me TO GROW!
 
@@ -659,7 +628,6 @@ its difficult => that stimulates me TO GROW!
 **Thoughts**
 It is so clean on the code side using React!
 
-**Extra**
 
 ###
 
@@ -674,7 +642,6 @@ It is so clean on the code side using React!
 
 **Thoughts**
 I BEGIN TO SEE MORE! KEEP GOING!!
-**Extra**
 
 ###
 
@@ -689,7 +656,6 @@ I BEGIN TO SEE MORE! KEEP GOING!!
 
 **Thoughts**
 I can more!
-**Extra**
 
 ###
 
@@ -704,7 +670,6 @@ I can more!
 
 **Thoughts**
 ill have a break today!
-**Extra**
 
 ###
 
@@ -717,7 +682,6 @@ ill have a break today!
 -handling delete function by sending the notes unique ID to App.jsx where I filter it out from allNotes array!
 **Thoughts**
 taking off work on my day off helped me to start fresh today and achieve a great results backed up with awesome mood!
-**Extra**
 
 ###
 
@@ -733,7 +697,6 @@ taking off work on my day off helped me to start fresh today and achieve a great
 -started new React coursse! Maxymilian!!
 **Thoughts**
 
-**Extra**
 
 ###
 
@@ -746,10 +709,11 @@ taking off work on my day off helped me to start fresh today and achieve a great
 -i decided to focus on ReactJs now. Goal is to get an IT job soon!
 -My journey continues with 'React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller' !
 -i did JS recap! crucial to get to understand it precisely in order to become a ReactJs developer.
+
 - spread | rest | destructuring | array methods
-**Thoughts**
-I know that mastering fundamentals is the source of a later achievements and true improving your skills!
-**Extra**
+  **Thoughts**
+  I know that mastering fundamentals is the source of a later achievements and true improving your skills!
+
 
 ###
 
@@ -759,10 +723,9 @@ I know that mastering fundamentals is the source of a later achievements and tru
 
 **Today's Progress**
 -today i work on my time management to get more space available for coding, my regular job is not an excuse
--created a new  React project set up, will be creating app that keeps track of my expenses!
+-created a new React project set up, will be creating app that keeps track of my expenses!
 **Thoughts**
 the more i learn the motivation and capabilities raises!
-**Extra**
 
 ###
 
@@ -775,12 +738,11 @@ the more i learn the motivation and capabilities raises!
 
 *format
 *file organization(components, CSS)
-*lean code
+\*lean code
 
 therefore i focus on it during next project!
 **Thoughts**
 
-**Extra**
 
 ###
 
@@ -797,8 +759,7 @@ deeper into React!
 -how does the react works with JSX undwer the hood!
 
 **Thoughts**
-THE AESTHETICS OF REACT CODE/FILE TREE  NOURISH MY  ARTISTIC SOUL
-**Extra**
+THE AESTHETICS OF REACT CODE/FILE TREE NOURISH MY ARTISTIC SOUL
 
 ###
 
@@ -814,7 +775,6 @@ i practiced communication between parents and children in React. amazing way to 
 -'lifting the state up' concept understood and worked with
 **Thoughts**
 
-**Extra**
 
 ###
 
@@ -829,7 +789,7 @@ i practiced communication between parents and children in React. amazing way to 
 
 **Thoughts**
 
-**Extra**
+
 
 ###
 
@@ -838,12 +798,11 @@ i practiced communication between parents and children in React. amazing way to 
 ###
 
 **Today's Progress**
--2hr hiring code test! I solved 1 out of 3  jS problems. The experience of that was priceless! I know what to expect now and every next job interview i smash!
+-2hr hiring code test! I solved 1 out of 3 jS problems. The experience of that was priceless! I know what to expect now and every next job interview i smash!
 
 -Managed to solve 2nd task using recursion now, took me 5 hours 🔥
 **Thoughts**
 CONFIDENCE IS INFINITE!
-**Extra**
 
 ###
 
@@ -852,14 +811,37 @@ CONFIDENCE IS INFINITE!
 ###
 
 **Today's Progress**
--today  i work on that 3rd WEB API task using express from my job hiring test! 
+-today i work on that 3rd WEB API task using express from my job hiring test!
 
 -I have the idea in mind and i go along with it step by step, carefully reading the docs one more time to get deeper understanding of how it works under the hood!
+**Thoughts**
+
+
+###
+
+### Day 50: July 30, 2021
+
+###
+
+**Today's Progress**
+still working on that solution! it is so much value here when trying to implement a simple FIND MODIFY AND SAVE functionality to my server, which was so easy to get using mongoose. Now, figure it out with no back end and DB using JAVASCRIPT!
 
 **Thoughts**
 
-**Extra**
 
+###
+
+### Day 0: July 6, 2021
+
+###
+
+**Today's Progress**
+-it took me 3 days to solve the third EMPLOYER TASK but i did it and understood it!
+-api which takes get request and check is there is a match in its query within the array we store the post requests (candidates for employee)
+**Thoughts**
+more important, than how fast you solve the problems,
+
+is if you SURVIVE the process of solving it, which can be really hard for a new tasks, and you finish it!! ~YES!
 
 //////////////////////////////
 //////////////////////////////
@@ -874,5 +856,3 @@ CONFIDENCE IS INFINITE!
 **Today's Progress**
 
 **Thoughts**
-
-**Extra**
