@@ -93,7 +93,6 @@ Looking forward to do a lot tomorrow - my day off. Last two days was busy in the
 
 I know it is the right thing to do, and that i enjoy the whole process of learning where the goal is to build up income from it! That's it. i've got the fuel, i've got the machine! Bzuuum!!
 
-
 ###
 
 ### Day 5: June 15, 2021 ### DAY OFF FROM WORK !!
@@ -130,7 +129,6 @@ BOUGHT ANTI BLUE LIGHT GLASSES AND I FEEL LIKE THE SENIOR FULL STACK ALPHA v55!
 **Thoughts**  
 i do not really resonate with database! that's why it's so good to do it !
 BOOOM! Got to get a nap before work!
-
 
 ###
 
@@ -209,7 +207,7 @@ NOW WE SHALL BEGIN!!!!!!!!
 ###
 
 **Today's Progress**
--Day11! was special ****\*\*\*\*****\*\*****\*\*\*\*****
+-Day11! was special \***\*\*\*\*\*\*\***\*\*\***\*\*\*\*\*\*\***
 -i spent time on system cleanUP, malware scans, chrome cleanups, bookmarks, tabs and the other important parts of my workspace environment that affect programming.
 -found some issuess and fixed it so my coding WILL BE AT ITS FULLEST!!
 
@@ -241,7 +239,6 @@ actually did 3 sessions of learning as i took extra day off today!! FELT SPLENDI
 DEEP WORK'S ON! I CAN SO MUCH MORE!!!!!
 IM SO PROUD OF MYSELF!!
 
-
 ###
 
 ### Day 13: June 23, 2021
@@ -256,7 +253,6 @@ IM SO PROUD OF MYSELF!!
 
 **Thoughts**
 I have to be careful with my body, overdoing my workout yesterday made my mood a bit jumpy so i decided to rest and relax through this day. Relax! Watching youtube!
-
 
 ###
 
@@ -274,7 +270,6 @@ I have to be careful with my body, overdoing my workout yesterday made my mood a
 
 **Thoughts**
 Right on! Excited and fresh!
-
 
 ###
 
@@ -343,7 +338,6 @@ My mouse tweaked today! Something got happened to it while spilling tea. Is it a
 
 **Thoughts**
 I find it very helpful to be aware of how does that area of DEV works
-
 
 ###
 
@@ -522,7 +516,6 @@ LOVING THE SIMPLICITY OF SYNTAX
 **Thoughts**
 -i am happy i am capable to such a great things and progresss
 
-
 ###
 
 ### Day 30: July 10, 2021
@@ -568,7 +561,6 @@ ReactJs Hooks practice with useState
 
 **Thoughts**
 focus on theory and react docs, I want to master it!
-
 
 ###
 
@@ -627,7 +619,6 @@ its difficult => that stimulates me TO GROW!
 
 **Thoughts**
 It is so clean on the code side using React!
-
 
 ###
 
@@ -697,7 +688,6 @@ taking off work on my day off helped me to start fresh today and achieve a great
 -started new React coursse! Maxymilian!!
 **Thoughts**
 
-
 ###
 
 ### Day 42: July 22, 2021
@@ -713,7 +703,6 @@ taking off work on my day off helped me to start fresh today and achieve a great
 - spread | rest | destructuring | array methods
   **Thoughts**
   I know that mastering fundamentals is the source of a later achievements and true improving your skills!
-
 
 ###
 
@@ -742,7 +731,6 @@ the more i learn the motivation and capabilities raises!
 
 therefore i focus on it during next project!
 **Thoughts**
-
 
 ###
 
@@ -775,7 +763,6 @@ i practiced communication between parents and children in React. amazing way to 
 -'lifting the state up' concept understood and worked with
 **Thoughts**
 
-
 ###
 
 ### Day 47: July 27, 2021
@@ -788,8 +775,6 @@ i practiced communication between parents and children in React. amazing way to 
 -maping list of objects in my Expenses App
 
 **Thoughts**
-
-
 
 ###
 
@@ -816,7 +801,6 @@ CONFIDENCE IS INFINITE!
 -I have the idea in mind and i go along with it step by step, carefully reading the docs one more time to get deeper understanding of how it works under the hood!
 **Thoughts**
 
-
 ###
 
 ### Day 50: July 30, 2021
@@ -827,7 +811,6 @@ CONFIDENCE IS INFINITE!
 still working on that solution! it is so much value here when trying to implement a simple FIND MODIFY AND SAVE functionality to my server, which was so easy to get using mongoose. Now, figure it out with no back end and DB using JAVASCRIPT!
 
 **Thoughts**
-
 
 ###
 
@@ -843,13 +826,28 @@ more important, than how fast you solve the problems,
 
 is if you SURVIVE the process of solving it, which can be really hard for a new tasks, and you finish it!! ~YES!
 
+###
+
+### Day 52: August 1, 2021
+
+###
+
+**Today's Progress**
+-Back to React!
+-cloned some functionality of a project that i am working on during my course by myself! It worked well as I operated on conditional rendering before in jS
+-useState, functionality buttons
+**Thoughts**
+\*thank you
+@epsugma
+for sharing a great mindset!
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
 
 ###
 
-### Day 0: July 6, 2021
+### Day 52: August 1, 2021
 
 ###
 
