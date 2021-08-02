@@ -837,9 +837,26 @@ is if you SURVIVE the process of solving it, which can be really hard for a new 
 -cloned some functionality of a project that i am working on during my course by myself! It worked well as I operated on conditional rendering before in jS
 -useState, functionality buttons
 **Thoughts**
-\*thank you
+*thank you
 @epsugma
 for sharing a great mindset!
+
+###
+
+### Day 52: August 1, 2021
+
+###
+
+**Today's Progress**
+react rendering CSS with dynamic styles explained in CHARTBARs components in http://EXPENSES.APP
+
+everyMonthData.map(dataPoint=><ChartBar />)
+-react style prop syntax
+-spread operator explained again
+-played with it the code in console/editor
+
+**Thoughts**
+-I CAN FIT MORNING GYM BEFORE WORK TO MY ROUTINE!
 
 //////////////////////////////
 //////////////////////////////
