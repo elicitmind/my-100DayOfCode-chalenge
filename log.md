@@ -837,13 +837,13 @@ is if you SURVIVE the process of solving it, which can be really hard for a new 
 -cloned some functionality of a project that i am working on during my course by myself! It worked well as I operated on conditional rendering before in jS
 -useState, functionality buttons
 **Thoughts**
-*thank you
+\*thank you
 @epsugma
 for sharing a great mindset!
 
 ###
 
-### Day 52: August 1, 2021
+### Day 53: August 2, 2021
 
 ###
 
@@ -857,6 +857,23 @@ everyMonthData.map(dataPoint=><ChartBar />)
 
 **Thoughts**
 -I CAN FIT MORNING GYM BEFORE WORK TO MY ROUTINE!
+
+###
+
+### Day 52: August 3, 2021
+
+###
+
+**Today's Progress**
+-trim()
+-CSS CLASS SELECTORS =>
+-::first-child
+-::last-child
+-::only-child
+
+-set style classes dynamically using jS `Template Literal` which enables embedding ${jSexpressions} within a `string` using a backtick (``) instead of quote (" ")
+
+**Thoughts**
 
 //////////////////////////////
 //////////////////////////////
