@@ -875,13 +875,30 @@ everyMonthData.map(dataPoint=><ChartBar />)
 
 **Thoughts**
 
+###
+
+### Day 55: August 4, 2021
+
+###
+
+**Today's Progress**
+-for creating unique React classes/styles that are scoped only to the certain components
+=> styled-components
+=> CSS Modules
+
+-syntax for CSS media query/dynamic rendering/attacked template literals
+
+**Thoughts**
+EVERYTIME I LEARN THE CODE I DEVELOP MY CREATIVITY
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
 
 ###
 
-### Day 52: August 1, 2021
+### Day 55: August 1, 2021
 
 ###
 
