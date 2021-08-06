@@ -906,6 +906,19 @@ error logs, dev tools 🔥
 
 **Thoughts**
 
+###
+
+### Day 57: August 6, 2021
+
+###
+
+**Today's Progress**
+-get the muscle memory working!
+🔥 created React project templates 
+🔥 recreated my previous project functionality to confirm my knowledge! 
+**Thoughts**
+the feeling of understanding the syntax and methods used that was newly introduced to me 2 weeks ago is GROWTH 🙇‍♂️
+
 
 //////////////////////////////
 //////////////////////////////
