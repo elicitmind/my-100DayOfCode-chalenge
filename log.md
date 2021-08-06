@@ -891,6 +891,21 @@ everyMonthData.map(dataPoint=><ChartBar />)
 **Thoughts**
 EVERYTIME I LEARN THE CODE I DEVELOP MY CREATIVITY
 
+###
+
+### Day 56: August 5, 2021
+
+###
+
+**Today's Progress**
+BUG FIXED! great way of learning, take a moment and 'get close' to your code.
+
+=>You will get ERRORs, a lot, thus you need to be able to FIND and FIX them on your own! That is a natural part of development, not only in CODING 🙇‍♂️
+
+error logs, dev tools 🔥
+
+**Thoughts**
+
 
 //////////////////////////////
 //////////////////////////////
