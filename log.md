@@ -919,6 +919,21 @@ error logs, dev tools 🔥
 **Thoughts**
 the feeling of understanding the syntax and methods used that was newly introduced to me 2 weeks ago is GROWTH 🙇‍♂️
 
+###
+
+### Day 58: August 7, 2021
+
+###
+
+**Today's Progress**
+-I do really enjoy CSS within my react projects, i like the visual front-end side of programming, ARTS!
+
+-created a new component which works as ERROR MODAL that pops up if condition met!
+
+**Thoughts**
+code, running and then read about starting my business!
+
+
 
 //////////////////////////////
 //////////////////////////////
