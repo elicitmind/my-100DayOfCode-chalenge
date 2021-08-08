@@ -933,6 +933,17 @@ the feeling of understanding the syntax and methods used that was newly introduc
 **Thoughts**
 code, running and then read about starting my business!
 
+###
+
+### Day 59: August 8, 2021
+
+###
+
+**Today's Progress**
+-Ref's, allows us to make a connection between html elements and javaScript code! best used when we need to read a value since it make the component uncontrolled.
+
+**Thoughts**
+
 
 
 //////////////////////////////
