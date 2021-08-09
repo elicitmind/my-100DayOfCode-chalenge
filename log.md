@@ -914,8 +914,8 @@ error logs, dev tools 🔥
 
 **Today's Progress**
 -get the muscle memory working!
-🔥 created React project templates 
-🔥 recreated my previous project functionality to confirm my knowledge! 
+🔥 created React project templates
+🔥 recreated my previous project functionality to confirm my knowledge!
 **Thoughts**
 the feeling of understanding the syntax and methods used that was newly introduced to me 2 weeks ago is GROWTH 🙇‍♂️
 
@@ -944,7 +944,23 @@ code, running and then read about starting my business!
 
 **Thoughts**
 
+###
 
+### Day 60: August 9, 2021
+
+###
+
+**Today's Progress**
+-in depth useEffect() .deals with the code that should be executed in response to an event
+-cleanUp function
+-setTimeout
+-clearTimeout
+-onBlur (event while element loses focus)
+-localStorage .setItem .getItem .removeItem
+
+**Thoughts**
+
+IAMTHIRSTY✴️
 
 //////////////////////////////
 //////////////////////////////
@@ -952,7 +968,7 @@ code, running and then read about starting my business!
 
 ###
 
-### Day 55: August 1, 2021
+### Day 60: August 9, 2021
 
 ###
 
