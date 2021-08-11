@@ -959,8 +959,37 @@ code, running and then read about starting my business!
 -localStorage .setItem .getItem .removeItem
 
 **Thoughts**
-
 IAMTHIRSTY✴️
+
+###
+
+### Day 61: August 10, 2021
+i need to write some projects using what i've learned recently about 
+-useReducer() hook! the mechanism of it looks really handy, the state managed by the dispatch function sent to the reducer as an action.
+-allias assignment for objects!
+###
+
+**Today's Progress**
+
+**Thoughts**
+
+###
+
+### Day 62: August 11, 2021
+
+###
+
+**Today's Progress**
+-useReducer's DOCs, pratice again in few days for a deep learn
+
+new concepts!
+-REACT.createContext, component-wide, state storage
+-.Provider
+-.Consumer
+-.useContext() hook to deliver Providers data to Consumers!
+
+**Thoughts**
+FANTASTIC TERMS Face with tears of joy
 
 //////////////////////////////
 //////////////////////////////
