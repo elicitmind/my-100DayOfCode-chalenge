@@ -964,14 +964,15 @@ IAMTHIRSTY✴️
 ###
 
 ### Day 61: August 10, 2021
-i need to write some projects using what i've learned recently about 
--useReducer() hook! the mechanism of it looks really handy, the state managed by the dispatch function sent to the reducer as an action.
--allias assignment for objects!
+
 ###
 
 **Today's Progress**
+-useReducer() hook! the mechanism of it looks really handy, the state managed by the dispatch function sent to the reducer as an action.
+-allias assignment for objects!
 
 **Thoughts**
+i need to write some projects using what i've learned recently
 
 ###
 
@@ -980,8 +981,7 @@ i need to write some projects using what i've learned recently about
 ###
 
 **Today's Progress**
--useReducer's DOCs, pratice again in few days for a deep learn
-
+-useReducer's DOCs
 new concepts!
 -REACT.createContext, component-wide, state storage
 -.Provider
@@ -990,6 +990,7 @@ new concepts!
 
 **Thoughts**
 FANTASTIC TERMS Face with tears of joy
+pratice again in few days for a deep learn
 
 //////////////////////////////
 //////////////////////////////
