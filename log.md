@@ -994,7 +994,7 @@ pratice again in few days for a deep learn
 
 ###
 
-### Day 63: August 9, 2021
+### Day 63: August 12, 2021
 
 ###
 
@@ -1003,6 +1003,16 @@ spent some time to learn in-depth the functionality, syntax and usage of:
 -useContext() !
 
 i refactored my whole App state control and included it in one Context file, created a provider wrapper with all the state managing functions forwarded inside!
+
+**Thoughts**
+###
+
+### Day 64: August 13, 2021
+
+###
+
+**Today's Progress**
+started a new project, i will create a React app with products, cart and order option. I want to test all the hooks i have learned and play with the components in DOM. im up for a good CSS practice in too!
 
 **Thoughts**
 
