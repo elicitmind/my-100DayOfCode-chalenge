@@ -992,6 +992,20 @@ new concepts!
 FANTASTIC TERMS Face with tears of joy
 pratice again in few days for a deep learn
 
+###
+
+### Day 63: August 9, 2021
+
+###
+
+**Today's Progress**
+spent some time to learn in-depth the functionality, syntax and usage of:
+-useContext() !
+
+i refactored my whole App state control and included it in one Context file, created a provider wrapper with all the state managing functions forwarded inside!
+
+**Thoughts**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
