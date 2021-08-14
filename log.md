@@ -1016,6 +1016,22 @@ started a new project, i will create a React app with products, cart and order o
 
 **Thoughts**
 
+###
+
+### Day 65: August 14, 2021
+
+###
+
+**Today's Progress**
+TO PRACTICE TYPING THE CODE AND CREATING THE STRUCTURE
+
+to get my memory stimulated i run through a guided project with Maximilian Schwarzmüller. Follow him step by step to strenghten practical skills!
+
+HARMONY BETWEEN THEORY AND MUSCLE MEMORY
+
+**Thoughts**
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
