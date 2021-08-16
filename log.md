@@ -1043,6 +1043,7 @@ HARMONY BETWEEN THEORY AND MUSCLE MEMORY
 Restaurant is being very busy ATM so I work about 12hrs shifts but still I make time for at least 1hr of code
 You can't? Wake up 1hr early!
 That's how I invest in my dreams!! I change my life by doing it
+EXPANSION
 
 ###
 
@@ -1051,16 +1052,15 @@ That's how I invest in my dreams!! I change my life by doing it
 ###
 
 **Today's Progress**
-working on new ReactApp!
+working on Food ReactApp!
 *one of my main interests, Health & Nutrition, as a theme*
 -state for conditional rendering
 -portals
 -Modals with backdrop (so proud of it, check vid)
 -components tree management
 
-LET'S GET THOSE SKILLS Man bowing deeply
-
 **Thoughts**
+LET'S GET THOSE SKILLS Man bowing deeply
 
 
 //////////////////////////////
