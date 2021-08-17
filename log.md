@@ -1062,6 +1062,27 @@ working on Food ReactApp!
 **Thoughts**
 LET'S GET THOSE SKILLS Man bowing deeply
 
+###
+
+### Day 60: August 9, 2021
+
+###
+
+**Today's Progress**
+i go on with the app, this is a hard piece of cake
+exactly how i like it
+
+*reducer 
+*context
+*ref
+
+**Thoughts**
+i woke up even earlier, its a bit rainy so I won`t be too busy in the restaurant
+-it means that I CODE INSTEAD OF REST!🔥✴️
+
+
+
+
 
 //////////////////////////////
 //////////////////////////////
