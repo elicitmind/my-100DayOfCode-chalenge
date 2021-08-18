@@ -1064,7 +1064,7 @@ LET'S GET THOSE SKILLS Man bowing deeply
 
 ###
 
-### Day 60: August 9, 2021
+### Day 68: August 17, 2021
 
 ###
 
@@ -1079,6 +1079,22 @@ exactly how i like it
 **Thoughts**
 i woke up even earlier, its a bit rainy so I won`t be too busy in the restaurant
 -it means that I CODE INSTEAD OF REST!🔥✴️
+
+###
+
+### Day 69: August 18, 2021
+
+###
+
+**Today's Progress**
+i implemented:
+the logic for adding cart items, inside my context provider, so items (if already exist) are not just pushed into the array but update the existing amount!
+
+TOOK ME 4 HOURS TO WRAP AROUND IT! 
+feeling of overcoming is priceless🔥
+
+**Thoughts**
+
 
 
 
