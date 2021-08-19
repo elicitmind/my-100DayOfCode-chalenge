@@ -1095,9 +1095,18 @@ feeling of overcoming is priceless🔥
 
 **Thoughts**
 
+###
 
+### Day 70: August 19, 2021
 
+###
 
+**Today's Progress**
+implemented the removeItem() from the current cart state
+
+-used bind() method with NULL as 1st param on my add/rem FNs to ensure the specific argument is received by function handler
+-spread operator, its ability to copy/override SUPER USEFUL
+**Thoughts**
 
 
 //////////////////////////////
@@ -1106,7 +1115,7 @@ feeling of overcoming is priceless🔥
 
 ###
 
-### Day 60: August 9, 2021
+### Day 70: August 9, 2021
 
 ###
 
