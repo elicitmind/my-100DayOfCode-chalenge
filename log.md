@@ -1108,6 +1108,21 @@ implemented the removeItem() from the current cart state
 -spread operator, its ability to copy/override SUPER USEFUL
 **Thoughts**
 
+###
+
+### Day 71: August 9, 2021
+
+###
+
+**Today's Progress**
+-items state managed by useContext()
+-dynamic btn's style on addItem using useEffect() & useState()
+-add/remove functionality managed in useReducer()
+-modalOverlay+backdrop rendered with createPortal()
+-more!
+
+**Thoughts**
+
 
 //////////////////////////////
 //////////////////////////////
