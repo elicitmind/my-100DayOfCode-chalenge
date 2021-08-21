@@ -1110,7 +1110,7 @@ implemented the removeItem() from the current cart state
 
 ###
 
-### Day 71: August 9, 2021
+### Day 71: August 20, 2021
 
 ###
 
@@ -1123,6 +1123,24 @@ implemented the removeItem() from the current cart state
 
 **Thoughts**
 
+
+###
+
+### Day 72: August 21, 2021
+
+###
+
+**Today's Progress**
+advanced theory of ReactJS & jS
+  i am amazed that this goes so deep`
+
+-Reference(arrays/objects) vs Primitive Values in jS!
+-two types of memory: The Stack & the Heap
+-optimizing App with React.memo()  & useCallback()
+
+
+**Thoughts**
+BEHIND THE SCENES MECHANISMUS!FireEight pointed star
 
 //////////////////////////////
 //////////////////////////////
