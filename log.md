@@ -1142,6 +1142,22 @@ advanced theory of ReactJS & jS
 **Thoughts**
 BEHIND THE SCENES MECHANISMUS!FireEight pointed star
 
+###
+
+### Day 73: August 9, 2021
+
+###
+
+**Today's Progress**
+back to javaScript to help me with Quality ReactJS!
+-closures understanding
+-lexical scope
+-execution context
+-lexical environment
+
+**Thoughts**
+LOVE LIFE
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
