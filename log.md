@@ -1175,6 +1175,24 @@ more deep into:
 **Thoughts**
 100%
 
+###
+
+### Day 75: August 24, 2021
+
+###
+
+**Today's Progress**
+Alternative way of creating components / managing state in React
+-class-based components
+-how it works? what for? why it's been updated
+-state in class components
+-THIS. concept explained and practiced
+
+**Thoughts**
+`to predict the future is to study the past` 
+    -WisemanBrain
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
