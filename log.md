@@ -1144,7 +1144,7 @@ BEHIND THE SCENES MECHANISMUS!FireEight pointed star
 
 ###
 
-### Day 73: August 9, 2021
+### Day 73: August 22, 2021
 
 ###
 
@@ -1157,6 +1157,23 @@ back to javaScript to help me with Quality ReactJS!
 
 **Thoughts**
 LOVE LIFE
+
+###
+
+### Day 74: August 23, 2021
+
+###
+
+**Today's Progress**
+more deep into:
+-closures
+-state in react, when and how it is being reinitialized/scheduled to update
+-destructuring props for optimalisation
+-useMemo()
+-useCallback()
+
+**Thoughts**
+100%
 
 //////////////////////////////
 //////////////////////////////
