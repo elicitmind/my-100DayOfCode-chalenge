@@ -1226,6 +1226,28 @@ the reason i learn about class-based is that many past projects are still writte
 **Thoughts**
 BACKEND OF REACT!<3>
 
+###
+
+### Day 78: August 27, 2021
+
+###
+
+**Today's Progress**
+backend@REACT
+
+I started with the focus on frontend,
+i love the Creative Artist part of me.
+
+yet there is something new I feel every time i work with backend. I develop..
+
+today:
+-async/await
+-try/catch/throw ERR
+-app behaviour for data loading/error
+
+**Thoughts**
+LIT🔥!
+
 
 
 //////////////////////////////
