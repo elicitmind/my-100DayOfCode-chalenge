@@ -1199,16 +1199,16 @@ Alternative way of creating components / managing state in React
 ###
 
 **Today's Progress**
-deeper understanding previous way of creating components in REACT, class-based
+-deeper understanding previous way of creating components in REACT, class-based
 
 -state and after effects implementation:
-this.state
-componentDidMount()
-componentDidUpdate()
-componentWillUnmount()
+-this.state
+-componentDidMount()
+-componentDidUpdate()
+-componentWillUnmount()
 
-current useState & useEffect hook!
 **Thoughts**
+the reason i learn about class-based is that many past projects are still written using this practice, modern apps prefer hooks
 
 ###
 
@@ -1217,14 +1217,14 @@ current useState & useEffect hook!
 ###
 
 **Today's Progress**
-    time to work with https requests and how do ReactApps talk to DataBase!
+-time to work with https requests and how do ReactApps talk to DataBase!
 -fetch() data from web API to use it in my APP
 -handling response in JSON from the API server syntax
 -render it as a mapped films components
 -then() method
 
 **Thoughts**
-
+BACKEND OF REACT!<3>
 
 
 
