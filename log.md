@@ -1192,6 +1192,41 @@ Alternative way of creating components / managing state in React
 `to predict the future is to study the past` 
     -WisemanBrain
 
+###
+
+### Day 76: August 9, 2021
+
+###
+
+**Today's Progress**
+deeper understanding previous way of creating components in REACT, class-based
+
+-state and after effects implementation:
+this.state
+componentDidMount()
+componentDidUpdate()
+componentWillUnmount()
+
+current useState & useEffect hook!
+**Thoughts**
+
+###
+
+### Day 77: August 9, 2021
+
+###
+
+**Today's Progress**
+    time to work with https requests and how do ReactApps talk to DataBase!
+-fetch() data from web API to use it in my APP
+-handling response in JSON from the API server syntax
+-render it as a mapped films components
+-then() method
+
+**Thoughts**
+
+
+
 
 //////////////////////////////
 //////////////////////////////
