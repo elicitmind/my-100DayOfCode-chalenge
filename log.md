@@ -1248,6 +1248,23 @@ today:
 **Thoughts**
 LIT🔥!
 
+###
+
+### Day 79: August 28, 2021
+
+###
+
+**Today's Progress**
+-useEffect on mount
+-theory on the REST API / GraphQL API
+-coaching course
+
+**Thoughts**
+ORWARD, RESTLESS
+
+``Being successful means being under constant pressure. You must always be on the move, because if you rest still, even on the right path, those behind you will eat your cake.`` 
+
+
 
 
 //////////////////////////////
