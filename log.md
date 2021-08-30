@@ -1264,6 +1264,31 @@ ORWARD, RESTLESS
 
 ``Being successful means being under constant pressure. You must always be on the move, because if you rest still, even on the right path, those behind you will eat your cake.`` 
 
+###
+
+### Day 80: August 29, 2021
+
+###
+
+**Today's Progress**
+-work with FIREBASE's dynamic database to learn DB implementation in REACT
+-fetch(URL, {options}) method to configure request and send post to store in DB
+-for...in loop using 'for (const key in myData)' to access and transform received data
+-useRef() practice
+-onEvent practice
+-playing with the code
+-console debugging
+-accessing the objects and props inside the data object
+
+**Thoughts**
+EACH DAY I CAN HANDLE MORE DATA 🧠🧠
+I WORSHIP THE LIMITLESS LIFE 🔥✴️
+
+YES🏄‍♂️🔥
+
+
+
+
 
 
 
