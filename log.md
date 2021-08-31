@@ -1286,6 +1286,23 @@ I WORSHIP THE LIMITLESS LIFE 🔥✴️
 
 YES🏄‍♂️🔥
 
+###
+
+### Day 81: August 30, 2021
+
+###
+
+**Today's Progress**
+1of3h of code was fun
+-spent an hour modifying the demo code on MDN for...in Docs to look closely of how can i acces the props in objects nested objects
+-used logical operators works too!
+-Custom react hooks!
+
+**Thoughts**
+i do know WHAT I WANT 
+every day I TAKE ACTION IN THAT DIRECTION
+Crown
+
 
 
 
