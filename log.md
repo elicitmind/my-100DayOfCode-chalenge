@@ -1005,6 +1005,7 @@ spent some time to learn in-depth the functionality, syntax and usage of:
 i refactored my whole App state control and included it in one Context file, created a provider wrapper with all the state managing functions forwarded inside!
 
 **Thoughts**
+
 ###
 
 ### Day 64: August 13, 2021
@@ -1053,7 +1054,7 @@ EXPANSION
 
 **Today's Progress**
 working on Food ReactApp!
-*one of my main interests, Health & Nutrition, as a theme*
+_one of my main interests, Health & Nutrition, as a theme_
 -state for conditional rendering
 -portals
 -Modals with backdrop (so proud of it, check vid)
@@ -1072,9 +1073,9 @@ LET'S GET THOSE SKILLS Man bowing deeply
 i go on with the app, this is a hard piece of cake
 exactly how i like it
 
-*reducer 
+*reducer
 *context
-*ref
+\*ref
 
 **Thoughts**
 i woke up even earlier, its a bit rainy so I won`t be too busy in the restaurant
@@ -1090,7 +1091,7 @@ i woke up even earlier, its a bit rainy so I won`t be too busy in the restaurant
 i implemented:
 the logic for adding cart items, inside my context provider, so items (if already exist) are not just pushed into the array but update the existing amount!
 
-TOOK ME 4 HOURS TO WRAP AROUND IT! 
+TOOK ME 4 HOURS TO WRAP AROUND IT!
 feeling of overcoming is priceless🔥
 
 **Thoughts**
@@ -1123,7 +1124,6 @@ implemented the removeItem() from the current cart state
 
 **Thoughts**
 
-
 ###
 
 ### Day 72: August 21, 2021
@@ -1132,12 +1132,11 @@ implemented the removeItem() from the current cart state
 
 **Today's Progress**
 advanced theory of ReactJS & jS
-  i am amazed that this goes so deep`
+i am amazed that this goes so deep`
 
 -Reference(arrays/objects) vs Primitive Values in jS!
 -two types of memory: The Stack & the Heap
--optimizing App with React.memo()  & useCallback()
-
+-optimizing App with React.memo() & useCallback()
 
 **Thoughts**
 BEHIND THE SCENES MECHANISMUS!FireEight pointed star
@@ -1189,8 +1188,8 @@ Alternative way of creating components / managing state in React
 -THIS. concept explained and practiced
 
 **Thoughts**
-`to predict the future is to study the past` 
-    -WisemanBrain
+`to predict the future is to study the past`
+-WisemanBrain
 
 ###
 
@@ -1262,7 +1261,7 @@ LIT🔥!
 **Thoughts**
 ORWARD, RESTLESS
 
-``Being successful means being under constant pressure. You must always be on the move, because if you rest still, even on the right path, those behind you will eat your cake.`` 
+`Being successful means being under constant pressure. You must always be on the move, because if you rest still, even on the right path, those behind you will eat your cake.`
 
 ###
 
@@ -1299,15 +1298,42 @@ YES🏄‍♂️🔥
 -Custom react hooks!
 
 **Thoughts**
-i do know WHAT I WANT 
+i do know WHAT I WANT
 every day I TAKE ACTION IN THAT DIRECTION
 Crown
 
+###
 
+### Day 82: August 31, 2021
 
+###
 
+**Today's Progress**
+ReactJS custom hooks!
+I do not want to code mindlessly thus I am careful, there is a lot of logic and rules, passing args, creating state and functions within the custom hooks
 
+**Thoughts**
+thats some hard stuff to grasp!
 
+I FEEL THE CHALLENGE ! ! Man mageFire
+
+COME ON!! CrownMan bowing deeply
+
+###
+
+### Day 83: September 1, 2021
+
+###
+
+**Today's Progress**
+created http custom hook that fetches the data from realtime DB
+-useCallback everywhere to prevent infinite loops
+-dependencies!!
+-using the returned values/state/function from my custom hook in components
+
+**Thoughts**
+NOT THAT SIMPLE!
+got to code more 🔥✴️
 
 //////////////////////////////
 //////////////////////////////
@@ -1315,7 +1341,7 @@ Crown
 
 ###
 
-### Day 70: August 9, 2021
+### Day 83: September 1, 2021
 
 ###
 
