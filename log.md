@@ -1335,6 +1335,16 @@ created http custom hook that fetches the data from realtime DB
 NOT THAT SIMPLE!
 got to code more 🔥✴️
 
+###
+
+### Day 84: September 2, 2021
+
+###
+
+**Today's Progress**
+
+**Thoughts**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
