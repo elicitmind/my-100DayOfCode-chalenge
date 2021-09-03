@@ -1356,6 +1356,28 @@ REACTjs || lets recap and practice stuff that I know already!
 `DO WHAT MUST TO BE DONE === GROWTH`
  👑👑
 
+###
+
+### Day 85: September 3, 2021
+
+###
+
+**Today's Progress**
+practice React state management while working with forms
+-useState
+-useRef
+-boolean
+-validation
+-conditional rendering
+-interactive components!
+
+**Thoughts**
+I am eager to act! 🧙‍♂️🧙‍♂️
+
+I do not underestimate concepts just because they seem easy to me.
+
+i engage 100% 👑🧘
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
