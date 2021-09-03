@@ -1342,8 +1342,19 @@ got to code more 🔥✴️
 ###
 
 **Today's Progress**
+INTERVALS WORKS
+learning intervals? Yes 🧙‍♂️🧙‍♂️!
+
+REACTjs || lets recap and practice stuff that I know already!
+-user input data validation
+-form submission
+-useState
+-useRef
+-conditional rendering
 
 **Thoughts**
+`DO WHAT MUST TO BE DONE === GROWTH`
+ 👑👑
 
 //////////////////////////////
 //////////////////////////////
