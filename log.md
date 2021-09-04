@@ -1378,6 +1378,26 @@ I do not underestimate concepts just because they seem easy to me.
 
 i engage 100% 👑🧘
 
+###
+
+### Day 86: September 4, 2021
+
+###
+
+**Today's Progress**
+-Refactoring
+*sorting states
+*setState
+*declare const as booleans instead of state
+*make 3 types of validation as clean and neat as possible
+-onChange/onSubmit/onBlur
+
+**Thoughts**
+- ``HOW YOU DO ONE THING IS HOW YOU DO EVERYTHING`` 👑👑
+
+100% focus on current task 🧠
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
