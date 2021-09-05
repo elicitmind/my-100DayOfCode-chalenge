@@ -1397,6 +1397,24 @@ i engage 100% 👑🧘
 
 100% focus on current task 🧠
 
+###
+
+### Day 87: September 5, 2021
+
+###
+
+**Today's Progress**
+i carry on, creating forms
+-validate, booleans, useState
+-render styles
+-manage submission
+-playing with CSS and html props
+
+**Thoughts**
+TO CODE FUNDAMENTALS LIKE THAT works well for my skills!
+
+that boost i get when i see my creation works is FUEL 
+🧙‍♂️🧙‍♂️
 
 //////////////////////////////
 //////////////////////////////
