@@ -1435,6 +1435,26 @@ this is WONDER!Man mageMan cartwheeling
 
 ANOTHER LEVEL! THE FIRE BURNS Fire
 
+###
+
+### Day 89: September 7, 2021
+
+###
+
+**Today's Progress**
+WORKING ON TIME MANAGEMENT
+to improve my performance even more! 🧙‍♂️
+
+back to my react food APP, i want to:
+-add a checkout form
+-submit order to a backend DB
+-fetching the data from DB
+
+**Thoughts**
+get that spirit/work/social/body's balance
+for the highest energy 🔥🔥
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
