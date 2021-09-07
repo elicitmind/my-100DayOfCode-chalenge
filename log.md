@@ -1416,6 +1416,25 @@ TO CODE FUNDAMENTALS LIKE THAT works well for my skills!
 that boost i get when i see my creation works is FUEL 
 🧙‍♂️🧙‍♂️
 
+###
+
+### Day 88: September 6, 2021
+
+###
+
+**Today's Progress**
+use custom hooks, its features to create a component where all the reusable logic is stored and available!
+
+-state, data handling
+-functionality to validate my input
+-access and reuse with custom names
+
+**Thoughts**
+this is WONDER!Man mageMan cartwheeling
+
+
+ANOTHER LEVEL! THE FIRE BURNS Fire
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
