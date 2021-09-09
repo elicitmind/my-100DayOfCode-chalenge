@@ -1473,6 +1473,25 @@ SO I CAN ENGAGE 100% 🔥🔥
 
 MAGIC🧙‍♂️
 
+###
+
+### Day 91: September 9, 2021
+
+###
+
+**Today's Progress**
+not much time but I CAN DO MUCH!!!🔥🔥
+-raw form rendering dynamically on 'checkout' in my modal component
+-fetch data from server, loading state
+-PROMISE only handling errors solution
+
+**Thoughts**
+I EXTEND MYSELF
+I STRETCH MY NERVOUS SYSTEM
+
+THEREFORE I GROW🧙‍♂️🤸‍♂️
+🙇‍♂️
+
 
 //////////////////////////////
 //////////////////////////////
