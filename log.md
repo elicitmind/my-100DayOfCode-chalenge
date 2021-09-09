@@ -1454,6 +1454,25 @@ back to my react food APP, i want to:
 get that spirit/work/social/body's balance
 for the highest energy 🔥🔥
 
+###
+
+### Day 90: September 9, 2021
+
+###
+
+**Today's Progress**
+-connection with test database established
+-fetching 'meals' data
+-add state for loading the data
+-conditional rendering while loading data
+-useReducer revision
+
+**Thoughts**
+I DO 1 THING AT THE TIME
+SO I CAN ENGAGE 100% 🔥🔥
+
+MAGIC🧙‍♂️
+
 
 //////////////////////////////
 //////////////////////////////
