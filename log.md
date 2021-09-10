@@ -1492,6 +1492,29 @@ I STRETCH MY NERVOUS SYSTEM
 THEREFORE I GROW🧙‍♂️🤸‍♂️
 🙇‍♂️
 
+###
+
+### Day 92: September 10, 2021
+
+###
+
+**Today's Progress**
+THE MOMENTUM 👑
+React FoodApp
+-add styling
+-render error upon invalid inputs
+-dummy validation logic
+-wrote it from scratch as simple as possible
+-add comments to carve it in memory
+
+**Thoughts**
+its ecstatic!
+there is so much pleasure in developing
+WEB and MYSELF!🧙‍♂️
+
+
+
+
 
 //////////////////////////////
 //////////////////////////////
