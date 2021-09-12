@@ -1354,7 +1354,7 @@ REACTjs || lets recap and practice stuff that I know already!
 
 **Thoughts**
 `DO WHAT MUST TO BE DONE === GROWTH`
- 👑👑
+👑👑
 
 ###
 
@@ -1393,7 +1393,8 @@ i engage 100% 👑🧘
 -onChange/onSubmit/onBlur
 
 **Thoughts**
-- ``HOW YOU DO ONE THING IS HOW YOU DO EVERYTHING`` 👑👑
+
+- `HOW YOU DO ONE THING IS HOW YOU DO EVERYTHING` 👑👑
 
 100% focus on current task 🧠
 
@@ -1413,7 +1414,7 @@ i carry on, creating forms
 **Thoughts**
 TO CODE FUNDAMENTALS LIKE THAT works well for my skills!
 
-that boost i get when i see my creation works is FUEL 
+that boost i get when i see my creation works is FUEL
 🧙‍♂️🧙‍♂️
 
 ###
@@ -1431,7 +1432,6 @@ use custom hooks, its features to create a component where all the reusable logi
 
 **Thoughts**
 this is WONDER!Man mageMan cartwheeling
-
 
 ANOTHER LEVEL! THE FIRE BURNS Fire
 
@@ -1512,9 +1512,21 @@ its ecstatic!
 there is so much pleasure in developing
 WEB and MYSELF!🧙‍♂️
 
+###
 
+### Day 93: September 11, 2021
 
+###
 
+**Today's Progress**
+· leverage backend for fetching meals data from DB and sending orders there
+· add checkout form +validation
+· add CLEAR action to my useReducer in context provider to clear the Cart
+· render success msg after valid checkout
+
+**Thoughts**
+OUT OF COMFORT ZONE
+DO MORE🧙‍♂️
 
 //////////////////////////////
 //////////////////////////////
