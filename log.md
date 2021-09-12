@@ -1528,6 +1528,31 @@ WEB and MYSELF!🧙‍♂️
 OUT OF COMFORT ZONE
 DO MORE🧙‍♂️
 
+
+###
+
+### Day 94: September 12, 2021
+
+###
+
+**Today's Progress**
+( my every day CODE non-negotiable)
+-do notes
+-wear bluelight glasses
+-15 min exercise before
+-cold shower after
+-timer
+
+today i started new REACT concept
+-REDUX
+
+**Thoughts**
+knowing WHY am I doing it
+creates enormous ENERGY
+to move FORWARD !! CrownCrown
+
+HYPERMIND BrainMan mage
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
