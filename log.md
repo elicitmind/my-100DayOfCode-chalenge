@@ -1553,6 +1553,24 @@ to move FORWARD !! CrownCrown
 
 HYPERMIND BrainMan mage
 
+
+###
+
+### Day 95: September 13, 2021
+
+###
+
+**Today's Progress**
+-today i was playing with the redux logic
+-back to useReducer project (its difficult, i review)
+-npm i redux redux-react
+
+**Thoughts**
+every time i explore #100DaysOfCode hashtag
+i get FANTASTIC INSPIRATION
+so many wonderful people committed to the learning!
+
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
