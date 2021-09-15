@@ -1587,6 +1587,22 @@ THE THRONE OF CONSISTENCE IS NEAR Crown
 i am not gonna be humble 
 as i DO WORK REALY HARD Man mage
 
+###
+
+### Day 97: September 15, 2021
+
+###
+
+**Today's Progress**
+-implement Redux in Class-based components
+-attach payloads to ACTION in Redux by adding extra prop to action objects in dispatch fN
+-played with dispatch actions and its values to create more complex reusable state
+
+**Thoughts**
+again, PRODUCTIVITY INCREASED!
+
+
+CODE🧙‍♂️
 
 //////////////////////////////
 //////////////////////////////
