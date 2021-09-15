@@ -1570,6 +1570,23 @@ every time i explore #100DaysOfCode hashtag
 i get FANTASTIC INSPIRATION
 so many wonderful people committed to the learning!
 
+###
+
+### Day 96: September 14, 2021
+
+###
+
+**Today's Progress**
+
+-provide app-wide redux store(state) to ReactApp component and its siblings
+-useSelector() and useDispatch() in action to allow REDUX work in REACTjs
+
+CONFIDENCEMan cartwheeling
+**Thoughts**
+THE THRONE OF CONSISTENCE IS NEAR Crown
+i am not gonna be humble 
+as i DO WORK REALY HARD Man mage
+
 
 //////////////////////////////
 //////////////////////////////
