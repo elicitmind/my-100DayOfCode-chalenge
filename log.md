@@ -1604,6 +1604,22 @@ again, PRODUCTIVITY INCREASED!
 
 CODE🧙‍♂️
 
+###
+
+### Day 98: September 16, 2021
+
+###
+
+**Today's Progress**
+-another way to use redux, Redux Toolkit library
+-more practice tomorrow as i want to be more confident using it
+-it makes sure that our reducers are not mutating the existing state to prevent bugs
+-createSlice
+**Thoughts**
+
+
+ACTION === EXPERIENCE === VALUE CrownCrown
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
