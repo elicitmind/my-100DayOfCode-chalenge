@@ -1620,6 +1620,33 @@ CODE🧙‍♂️
 
 ACTION === EXPERIENCE === VALUE CrownCrown
 
+###
+
+### Day 99: September 17, 2021
+
+###
+
+**Today's Progress**
+today i
+-set up a store with redux Toolkit again
+-created 2 createSlice functions responsible for reducers and generating actions
+-imported actions to components where i could dispatch them on event
+
+**Thoughts**
+it will require more OF MY ATTENTION!
+REACT-REDUX
+
+Om symbol
+###
+
+### Day 99: September 17, 2021
+
+###
+
+**Today's Progress**
+
+**Thoughts**
+
 //////////////////////////////
 //////////////////////////////
 ///////////////////////////////
