@@ -1639,12 +1639,25 @@ REACT-REDUX
 Om symbol
 ###
 
-### Day 99: September 17, 2021
+### Day 100: September 17, 2021
 
 ###
 
 **Today's Progress**
+Day100👑
 
+WHAT IVE LEARNED DURING THE CHALLENGE
+-importance of accountability 
+-increasing discipline
+-CREATING TIME
+-high performance
+-time management
+-learning techniques
+-maximizing ENERGY
+-finding the SOURCE OF ENERGY
+-how to keep high and elevated state
+
+🧙‍♂️🔥
 **Thoughts**
 
 //////////////////////////////
