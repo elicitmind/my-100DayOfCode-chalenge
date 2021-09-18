@@ -1528,7 +1528,6 @@ WEB and MYSELF!🧙‍♂️
 OUT OF COMFORT ZONE
 DO MORE🧙‍♂️
 
-
 ###
 
 ### Day 94: September 12, 2021
@@ -1552,7 +1551,6 @@ creates enormous ENERGY
 to move FORWARD !! CrownCrown
 
 HYPERMIND BrainMan mage
-
 
 ###
 
@@ -1584,7 +1582,7 @@ so many wonderful people committed to the learning!
 CONFIDENCEMan cartwheeling
 **Thoughts**
 THE THRONE OF CONSISTENCE IS NEAR Crown
-i am not gonna be humble 
+i am not gonna be humble
 as i DO WORK REALY HARD Man mage
 
 ###
@@ -1601,7 +1599,6 @@ as i DO WORK REALY HARD Man mage
 **Thoughts**
 again, PRODUCTIVITY INCREASED!
 
-
 CODE🧙‍♂️
 
 ###
@@ -1616,7 +1613,6 @@ CODE🧙‍♂️
 -it makes sure that our reducers are not mutating the existing state to prevent bugs
 -createSlice
 **Thoughts**
-
 
 ACTION === EXPERIENCE === VALUE CrownCrown
 
@@ -1637,6 +1633,7 @@ it will require more OF MY ATTENTION!
 REACT-REDUX
 
 Om symbol
+
 ###
 
 ### Day 100: September 17, 2021
@@ -1647,7 +1644,7 @@ Om symbol
 Day100👑
 
 WHAT IVE LEARNED DURING THE CHALLENGE
--importance of accountability 
+-importance of accountability
 -increasing discipline
 -CREATING TIME
 -high performance
