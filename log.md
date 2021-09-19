@@ -1636,7 +1636,7 @@ Om symbol
 
 ###
 
-### Day 100: September 17, 2021
+### Day 100: September 18, 2021
 
 ###
 
@@ -1656,6 +1656,25 @@ WHAT IVE LEARNED DURING THE CHALLENGE
 
 🧙‍♂️🔥
 **Thoughts**
+
+###
+
+### Day 101: September 19, 2021
+
+###
+
+**Today's Progress**
+-writing a React app with complex state managed by redux
+-using Redux Tool Kit
+-follow up documentation
+-fully understanding all the methods
+-useDispatch
+-reducers
+-actions
+-useSelector
+**Thoughts**
+PUSH IT, WHEN HURTS, TO EXTEND YOUR ABILITY
+PRACTICE PRACTICE🧙‍♂️🔥
 
 //////////////////////////////
 //////////////////////////////
