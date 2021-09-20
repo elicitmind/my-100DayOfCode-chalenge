@@ -1682,6 +1682,26 @@ PRACTICE PRACTICE🧙‍♂️🔥
 
 ###
 
+### Day 102: September 20, 2021
+
+###
+
+**Today's Progress**
+-i dive into the logic
+-i visualize the logic
+-i create and change the code to observe the results!
+-i appreciate the learning more now
+
+**Thoughts**
+i carry on WITH REACTjs!
+
+EXPERIMENT, i do enjoy the process of learning from different approach now.
+
+i carry on WITH REACTjs!
+
+
+###
+
 ### Day 83: September 1, 2021
 
 ###
