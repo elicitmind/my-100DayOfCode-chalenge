@@ -1699,6 +1699,24 @@ EXPERIMENT, i do enjoy the process of learning from different approach now.
 
 i carry on WITH REACTjs!
 
+###
+
+### Day 103: September 21, 2021
+
+###
+
+**Today's Progress**
+code:
+-implement functionality operating with Redux Toolkit for the state and reducers distribution along components
+
+business:
+-recorded 2 videos
+-started an article about mental energy source
+-mastermind meeting
+-strategy
+
+**Thoughts**
+HIGH PERFORMANCE DAY!👑
 
 ###
 
