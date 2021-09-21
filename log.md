@@ -1714,7 +1714,7 @@ business:
 -started an article about mental energy source
 -mastermind meeting
 -strategy
-
+ 
 **Thoughts**
 HIGH PERFORMANCE DAY!👑
 
