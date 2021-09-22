@@ -1720,6 +1720,26 @@ HIGH PERFORMANCE DAY!👑
 
 ###
 
+### Day 104: September 22, 2021
+
+###
+
+**Today's Progress**
+today in REACT APP
+-got all the functionality logic set!
+-reducer functions and all the state data kept in APP-WIDE Redux store!
+-its so smooth!
+
+business
+-finished up the article, handwritten version
+-funnel marketing tool
+
+**Thoughts**
+CALL TO ACTION! START NOW
+Man mage
+
+###
+
 ### Day 83: September 1, 2021
 
 ###
