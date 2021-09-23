@@ -1714,7 +1714,7 @@ business:
 -started an article about mental energy source
 -mastermind meeting
 -strategy
- 
+
 **Thoughts**
 HIGH PERFORMANCE DAY!👑
 
@@ -1737,6 +1737,24 @@ business
 **Thoughts**
 CALL TO ACTION! START NOW
 Man mage
+
+###
+
+### Day 105: September 23, 2021
+
+###
+
+**Today's Progress**
+ReactApp!
+-implemented backend to store my Redux state there!
+-by myself first later compare with other solutions
+-rules for async functions while working with redux!!
+
+**Thoughts**
+TIGHT SCHEDULE CREATES TENSION
+-which i transform into ENERGY TO TAKE ACTION
+
+🔥🔥🧙‍♂️
 
 ###
 
