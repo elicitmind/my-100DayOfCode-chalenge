@@ -1754,6 +1754,28 @@ ReactApp!
 TIGHT SCHEDULE CREATES TENSION
 -which i transform into ENERGY TO TAKE ACTION
 
+###
+
+### Day 106: September 1, 2021
+
+###
+
+**Today's Progress**
+Reactttt!
+-redux state,
+-back end connected,
+-error catched,
+-notification pop up after fetching the data!
+
+Business:
+-high performance day,
+-10 value / content creation tasks to do
+-time blocking
+**Thoughts**
+
+
+SURE I WILL MANAGE Crown
+
 🔥🔥🧙‍♂️
 
 ###
