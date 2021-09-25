@@ -1756,7 +1756,7 @@ TIGHT SCHEDULE CREATES TENSION
 
 ###
 
-### Day 106: September 1, 2021
+### Day 106: September 24, 2021
 
 ###
 
@@ -1773,10 +1773,28 @@ Business:
 -time blocking
 **Thoughts**
 
-
 SURE I WILL MANAGE Crown
 
 🔥🔥🧙‍♂️
+
+###
+
+### Day 107: September 25, 2021
+
+###
+
+**Today's Progress**
+today's session was about another way of writing async code in redux
+-action creators
+-thunks
+and I did not understand it! Man cartwheelingwhich is a challenge!
+
+**Thoughts**
+
+EVEN ON THE BUSIEST DAY, I will do whatever it takes to find that 1hour to learn something new in coding!
+
+
+
 
 ###
 
