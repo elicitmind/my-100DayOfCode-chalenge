@@ -1809,6 +1809,28 @@ UNDERSTANDING!Man mageMan mage
 
 ###
 
+### Day 109: September 27, 2021
+
+###
+
+**Today's Progress**
+Day109! REDUX SUMMARY
+
+-all conditions for GET/PUT requests
+-data managed by Redux Toolkit
+-myCart is stored and accessed from an external DB
+-reducers for data transformation
+-action creators/components for aSync and side-effects
+**Thoughts**
+
+TRAIN YOUR COGNITION!BrainMan mage
+###
+
+////////////////////////////////////////
+////////////////////////////////////////
+
+###
+
 ### Day 83: September 1, 2021
 
 ###
