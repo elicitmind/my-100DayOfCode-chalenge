@@ -1793,8 +1793,19 @@ and I did not understand it! Man cartwheelingwhich is a challenge!
 
 EVEN ON THE BUSIEST DAY, I will do whatever it takes to find that 1hour to learn something new in coding!
 
+###
 
+### Day 108: September 26, 2021
 
+###
+
+**Today's Progress**
+After a while working with Redux in ReactApp I found it very helpful to get back to the documentation and read about fundamentals once again!
+
+Reviewing practiced methods, according to theory in DOCS, got me some insights!
+
+**Thoughts**
+UNDERSTANDING!Man mageMan mage
 
 ###
 
