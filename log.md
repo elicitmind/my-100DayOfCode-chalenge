@@ -1842,6 +1842,21 @@ REACT ROUTER - INTRO!
 I FEEL LIKE GROWING !! Man mageMan mageFire
 IM ALREADY FIRED UP BY THIS
 
+###
+
+### Day 111: September 29, 2021
+
+###
+
+**Today's Progress**
+Ive published my first of many articles!!
+
+REMARKABLE FEELING TO START THIS NEW REACT CONCEPT!👑
+-Route
+-Link, NavLink components listen to a click on the link and update our SPA's URL so it looks like we switched the page!!
+**Thoughts**
+GROWTHHHHH
+
 ////////////////////////////////////////
 ////////////////////////////////////////
 
