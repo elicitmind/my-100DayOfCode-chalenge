@@ -1824,7 +1824,23 @@ Day109! REDUX SUMMARY
 **Thoughts**
 
 TRAIN YOUR COGNITION!BrainMan mage
+
+
 ###
+
+### Day 110: September 28, 2021
+
+###
+
+**Today's Progress**
+REACT ROUTER - INTRO! 
+
+-react-router was created to make SinglePageApp's content linkable without reloading or sending HTML files to the user!
+-learned basic wrapping and simple route component
+
+**Thoughts**
+I FEEL LIKE GROWING !! Man mageMan mageFire
+IM ALREADY FIRED UP BY THIS
 
 ////////////////////////////////////////
 ////////////////////////////////////////
