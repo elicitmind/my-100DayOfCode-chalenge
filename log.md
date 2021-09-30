@@ -1857,6 +1857,25 @@ REMARKABLE FEELING TO START THIS NEW REACT CONCEPT!👑
 **Thoughts**
 GROWTHHHHH
 
+###
+
+### Day 112: September 30, 2021
+
+###
+
+**Today's Progress**
+PASSION!🔥 I really enjoy working with react-router!
+
+got all the basics:
+-Routes +Nested Routes, we can define routes in every component to individualize our links creating unique UX
+-Switch
+-Redirect
+-Links
+
+CHECK MY DEMO APP, it's all single PAGE
+
+**Thoughts**
+🤴🤴
 ////////////////////////////////////////
 ////////////////////////////////////////
 
