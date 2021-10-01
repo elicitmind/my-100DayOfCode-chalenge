@@ -1825,7 +1825,6 @@ Day109! REDUX SUMMARY
 
 TRAIN YOUR COGNITION!BrainMan mage
 
-
 ###
 
 ### Day 110: September 28, 2021
@@ -1833,7 +1832,7 @@ TRAIN YOUR COGNITION!BrainMan mage
 ###
 
 **Today's Progress**
-REACT ROUTER - INTRO! 
+REACT ROUTER - INTRO!
 
 -react-router was created to make SinglePageApp's content linkable without reloading or sending HTML files to the user!
 -learned basic wrapping and simple route component
@@ -1876,12 +1875,34 @@ CHECK MY DEMO APP, it's all single PAGE
 
 **Thoughts**
 🤴🤴
+
+###
+
+### Day 113: October 1, 2021
+
+###
+
+**Today's Progress**
+RAISED THE BAR, AGAIN Man mage
+
+working on a template project, components are set, my task is to figure out the hierarchy and implement SPA functionality, ROUTER and STATE practice
+
+also, 2nd article about
+MENTAL ENERGY LEAKAGES
+almost done
+
+**Thoughts**
+time to RUN Man runningTimer clock
+
+
+
+
 ////////////////////////////////////////
 ////////////////////////////////////////
 
 ###
 
-### Day 83: September 1, 2021
+### Day 83: October 1, 2021
 
 ###
 
