@@ -1921,8 +1921,12 @@ repeat React Context!
 ###
 
 **Today's Progress**
+Deep study of React Context, useContext, useReducer documentation, this is how i generate the highest state of focus.
+
+implement implement!
 
 **Thoughts**
+i do this to practice the ability TO ELICIT A FLOW STATE ON DEMAND. i do max up my efficiency FireMan mageMan mageEight pointed star
 
 
 ////////////////////////////////////////
