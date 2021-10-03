@@ -1895,6 +1895,34 @@ almost done
 time to RUN Man runningTimer clock
 
 
+###
+
+### Day 114: October 2, 2021
+
+###
+
+**Today's Progress**
+REVISION as working on the current project I realized that I struggle to implement..
+
+repeat React Context!
+-going through the docs again
+-implementing for practice
+-building the provider
+
+-2rd module of speaker's course
+-on my 25of100video recorded
+**Thoughts**
+
+
+###
+
+### Day 115: October 3, 2021
+
+###
+
+**Today's Progress**
+
+**Thoughts**
 
 
 ////////////////////////////////////////
