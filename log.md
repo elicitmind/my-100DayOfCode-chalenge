@@ -1928,6 +1928,24 @@ implement implement!
 **Thoughts**
 i do this to practice the ability TO ELICIT A FLOW STATE ON DEMAND. i do max up my efficiency FireMan mageMan mageEight pointed star
 
+###
+
+### Day 116: October 4, 2021
+
+###
+
+**Today's Progress**
+today 
+-added some routing
+-components
+-wrote reducer function and dispatched an action
+-created an error to debug tomorrow
+
+-i also had a coaching call FireFire
+
+**Thoughts**
+grind it! I continue, I write my own app testing my memory of React concepts + using docs
+
 
 ////////////////////////////////////////
 ////////////////////////////////////////
