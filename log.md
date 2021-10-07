@@ -1894,7 +1894,6 @@ almost done
 **Thoughts**
 time to RUN Man runningTimer clock
 
-
 ###
 
 ### Day 114: October 2, 2021
@@ -1912,7 +1911,6 @@ repeat React Context!
 -2rd module of speaker's course
 -on my 25of100video recorded
 **Thoughts**
-
 
 ###
 
@@ -1935,7 +1933,7 @@ i do this to practice the ability TO ELICIT A FLOW STATE ON DEMAND. i do max up 
 ###
 
 **Today's Progress**
-today 
+today
 -added some routing
 -components
 -wrote reducer function and dispatched an action
@@ -1945,6 +1943,45 @@ today
 
 **Thoughts**
 grind it! I continue, I write my own app testing my memory of React concepts + using docs
+
+###
+
+### Day 117: October 5, 2021
+
+###
+
+**Today's Progress**
+-tested data rendering on dummy examples
+-operating with props
+-array methods to filter the rendered data
+-all with dynamic routing for separate components
+
+**Thoughts**
+MY INTELLECTUAL SPORT SESSION RESULTS Timer clock
+I KEEP MY FIRE BURNING!FireFire
+
+###
+
+### Day 118: October 1, 2021
+
+###
+
+**Today's Progress**
+React Router!
+-wildcard " \* " usage for unspecified URL redirecting
+-useHistory() and useLocation() hook! MAGIC
+-Prompt component!
+
+**Thoughts**
+Also, I've published my second article
+@hashnode
+
+https://elicitmind.hashnode.dev/leakages-of-mental-energy
+
+I AM SO GRATEFUL!FireMan bowing deeplyFire
+
+
+
 
 
 ////////////////////////////////////////
