@@ -1980,7 +1980,20 @@ https://elicitmind.hashnode.dev/leakages-of-mental-energy
 
 I AM SO GRATEFUL!FireMan bowing deeplyFire
 
+###
 
+### Day 119: October 1, 2021
+
+###
+
+**Today's Progress**
+for some time I will be working on my project's website using:
+-WordPress
+-Divi Theme Builder
+
+**Thoughts**
+I DECIDED TO TAKE A BREAK FROM REACT
+I reevaluated my current goals and there is something more important for me to execute, still related to the challenge.
 
 
 
