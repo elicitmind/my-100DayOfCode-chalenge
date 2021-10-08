@@ -1982,7 +1982,7 @@ I AM SO GRATEFUL!FireMan bowing deeplyFire
 
 ###
 
-### Day 119: October 1, 2021
+### Day 119: October 7, 2021
 
 ###
 
@@ -1995,7 +1995,25 @@ for some time I will be working on my project's website using:
 I DECIDED TO TAKE A BREAK FROM REACT
 I reevaluated my current goals and there is something more important for me to execute, still related to the challenge.
 
+###
 
+### Day 120: October 8, 2021
+
+###
+
+**Today's Progress**
+ive set up my domain!
+installed wordpress
+installed divi
+set up DNS
+set up SSL
+fixed URL
+created menu bar Man mageMan mage
+
+**Thoughts**
+ISNT THAT THE MOST BEAUTIFUL PORTAL?
+
+there was not much of a code, but hell, it is challenging and it is A GREAT EXPERIENCE FOR A CODE LOVER!
 
 ////////////////////////////////////////
 ////////////////////////////////////////
