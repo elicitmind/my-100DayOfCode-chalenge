@@ -1968,7 +1968,7 @@ I KEEP MY FIRE BURNING!FireFire
 
 **Today's Progress**
 React Router!
--wildcard " \* " usage for unspecified URL redirecting
+-wildcard " * " usage for unspecified URL redirecting
 -useHistory() and useLocation() hook! MAGIC
 -Prompt component!
 
@@ -2017,6 +2017,35 @@ there was not much of a code, but hell, it is challenging and it is A GREAT EXPE
 
 ////////////////////////////////////////
 ////////////////////////////////////////
+
+###
+
+### Day 121: October 9, 2021
+
+###
+
+**Today's Progress**
+customizing my page
+added styling
+divi interface exploration
+google analytics set
+
+LETS GO! VIDEO RECORDED! 
+I DEVELOP ENTREPRENEUR SKILLS
+
+**Thoughts**
+
+
+Learning the code helps me in every aspect of life!
+
+today in web-dev
+-divi visual builder
+-added few sections
+-compared its UI customizer to my css knowledge
+
+there is a solution for everything! 🔥🔥
+my performance is increasing EVERY DAY 🧙‍♂️🧙‍♂️
+ACHIEVE!!
 
 ###
 
