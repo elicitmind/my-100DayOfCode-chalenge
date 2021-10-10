@@ -2015,8 +2015,6 @@ ISNT THAT THE MOST BEAUTIFUL PORTAL?
 
 there was not much of a code, but hell, it is challenging and it is A GREAT EXPERIENCE FOR A CODE LOVER!
 
-////////////////////////////////////////
-////////////////////////////////////////
 
 ###
 
@@ -2035,7 +2033,13 @@ I DEVELOP ENTREPRENEUR SKILLS
 
 **Thoughts**
 
+###
 
+### Day 122: October 10, 2021
+
+###
+
+**Today's Progress**
 Learning the code helps me in every aspect of life!
 
 today in web-dev
@@ -2043,9 +2047,19 @@ today in web-dev
 -added few sections
 -compared its UI customizer to my css knowledge
 
+**Thoughts**
 there is a solution for everything! 🔥🔥
 my performance is increasing EVERY DAY 🧙‍♂️🧙‍♂️
 ACHIEVE!!
+
+
+
+
+
+////////////////////////////////////////
+////////////////////////////////////////
+
+
 
 ###
 
