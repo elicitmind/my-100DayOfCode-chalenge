@@ -1968,7 +1968,7 @@ I KEEP MY FIRE BURNING!FireFire
 
 **Today's Progress**
 React Router!
--wildcard " * " usage for unspecified URL redirecting
+-wildcard " \* " usage for unspecified URL redirecting
 -useHistory() and useLocation() hook! MAGIC
 -Prompt component!
 
@@ -2015,7 +2015,6 @@ ISNT THAT THE MOST BEAUTIFUL PORTAL?
 
 there was not much of a code, but hell, it is challenging and it is A GREAT EXPERIENCE FOR A CODE LOVER!
 
-
 ###
 
 ### Day 121: October 9, 2021
@@ -2028,7 +2027,7 @@ added styling
 divi interface exploration
 google analytics set
 
-LETS GO! VIDEO RECORDED! 
+LETS GO! VIDEO RECORDED!
 I DEVELOP ENTREPRENEUR SKILLS
 
 **Thoughts**
@@ -2052,14 +2051,25 @@ there is a solution for everything! 🔥🔥
 my performance is increasing EVERY DAY 🧙‍♂️🧙‍♂️
 ACHIEVE!!
 
+###
 
+### Day 123: October 11, 2021
 
+###
 
+**Today's Progress**
+i love it, working with WordPress is so comfy! I consider it as my 'coding retreat' still being in the business!
+PRODUCTIVE REST FROM CODE BY DEVELOPING MY WEBSITE! 2 in 1.
+
+**Thoughts**
+
+PASSION!
+I do work on my goals even when I take a break.
+PERIOD.
+COME ALONG Man bowing deeply
 
 ////////////////////////////////////////
 ////////////////////////////////////////
-
-
 
 ###
 
