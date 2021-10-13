@@ -2085,6 +2085,21 @@ I DO MAINTAIN THEM ALL + POSITIVE WELL BEING
 
 **Thoughts**
 
+###
+
+### Day 125: October 13, 2021
+
+###
+
+**Today's Progress**
+self dev! improving my skills, high-performance schedule! learning the code opened me up
+
+lots of going on and its all growth! i keep going with the WebDEV
+i wont stop,  1h of code-related problem solving to keep my mind fresh and agile!!
+
+FireFirst place medalCrownCrown
+
+**Thoughts**
 
 ////////////////////////////////////////
 ////////////////////////////////////////
