@@ -2068,6 +2068,24 @@ I do work on my goals even when I take a break.
 PERIOD.
 COME ALONG Man bowing deeply
 
+###
+
+### Day 124: October 12, 2021
+
+###
+
+**Today's Progress**
+extremum! ive got a day off from my 9-5 job and i dedicate all my cognitive skills into my own business!
+
+it is eye opening that there is an incredible place for growth in ALL THE AREAS OF LIFE!
+
+I DO MAINTAIN THEM ALL + POSITIVE WELL BEING
+
+-1h of code Heavy check mark
+
+**Thoughts**
+
+
 ////////////////////////////////////////
 ////////////////////////////////////////
 
