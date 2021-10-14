@@ -2101,6 +2101,23 @@ FireFirst place medalCrownCrown
 
 **Thoughts**
 
+###
+
+### Day 126: October 1, 2021
+
+###
+
+**Today's Progress**
+-today i added contact page, 
+-used divi template that i will be formating for my own preference!
+- its easy, and looks decent! 
+-saves me a lot of work and gives me the results i need!!
+
+I FOUND A NEW APARTMENT WHERE I WILL SET UP MY NEW OFFICE!! 
+
+**Thoughts**
+
+
 ////////////////////////////////////////
 ////////////////////////////////////////
 
